@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book an appointment</title>
+    <link rel="stylesheet" href="appoitment.css">
+</head>
+<body>
+    <div class="cursor-dot"></div>
+    <nav class="navbar">
+        <div class="navbar-brand">
+            <img src="WhatsApp Image 2025-04-04 at 18.13.06_5f9a79c8.jpg" alt="Profile" class="profile-pic">
+            <span>Customized Technologies</span>
+        </div>
+        <ul class="navbar-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="customer.html">Customer</a></li>
+            <li><a href="products.html">Product</a></li>
+            <li><a href="team.html" class="team-button">Team</a></li>
+            <li><a href="#" class="brochure-button" download>
+                <span>Download Brochure</span>
+                <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M8 11L4 7h8l-4 4z" fill="currentColor"/>
+                </svg>
+            </a></li>
+            <li><a href="contact_us.html" class="contact-button">Contact Us</a></li>
+        </ul>
+    </nav>
+    
+    <div class="contact-container">
+        <div class="illustration-section">
+            <img src="appoint_image.png" alt="Contact illustration">
+        </div>
+
+        <div class="form-section">
+            <h1>Book an appointment</h1>
+            <form id="appointmentForm">
+                <div class="form-group">
+                    <input type="text" id="name" name="name" placeholder="Name" required>
+                </div>
+                
+                <div class="form-group">
+                    <input type="text" id="company" name="company" placeholder="Company Name" required>
+                </div>
+                
+                <div class="form-group">
+                    <input type="email" id="email" name="email" placeholder="Email" required>
+                </div>
+                
+                <div class="form-group">
+                    <input type="tel" id="mobile" name="mobile" placeholder="Phone Number" required>
+                </div>
+
+                <button type="submit">Submit</button>
+            </form>
+        </div>
+    </div>
+
+    
+    <!-- Success message (initially hidden) -->
+    <div class="success-message" id="successMessage" style="display: none;">
+        <div class="success-icon">
+            <img src="mail-icon.png" alt="Success">
+        </div>
+        <h2>Thank you!!</h2>
+        <p>Your message has been received! One of our team members will be in touch with you shortly.</p>
+        <button onclick="window.location.href='index.html'" class="go-home">Go home</button>
+    </div>
+</body>
+<script src="script.js"></script>
+<script src="appointment.js"></script>
+</html>

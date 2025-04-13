@@ -1,0 +1,214 @@
+.customer-section {
+    padding: 60px 0;
+    background: linear-gradient(to right, #cadde7 0%, #3fa5dc 100%);
+}
+
+.customer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.customer-header {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.customer-header h1 {
+    font-size: 48px;
+    color: #2c5282;
+    margin-bottom: 16px;
+    font-weight: 600;
+}
+
+.customer-header p {
+    font-size: 18px;
+    color: #4a5568;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.customer-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.customer-row {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 30px;
+}
+
+.customer-card {
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 15px;
+    padding: 30px;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.customer-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+}
+
+.company-logo {
+    width: 120px;
+    height: 120px;
+    object-fit: contain;
+    margin-bottom: 20px;
+}
+
+.customer-card h3 {
+    font-size: 18px;
+    color: #2d3748;
+    margin-bottom: 8px;
+    font-weight: 600;
+}
+
+.customer-card .industry {
+    font-size: 16px;
+    color: #4299e1;
+    margin-bottom: 4px;
+    font-weight: 500;
+}
+
+.customer-card .location {
+    font-size: 14px;
+    color: #718096;
+}
+
+/* Tablet View (768px - 1024px) */
+@media (max-width: 1024px) {
+    .customer-section {
+        padding: 40px 0;
+    }
+
+    .customer-header h1 {
+        font-size: 42px;
+    }
+
+    .customer-header p {
+        font-size: 16px;
+        max-width: 500px;
+    }
+
+    .customer-row {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 20px;
+    }
+
+    .customer-card {
+        padding: 25px;
+    }
+
+    .company-logo {
+        width: 100px;
+        height: 100px;
+        margin-bottom: 15px;
+    }
+
+    .customer-card h3 {
+        font-size: 16px;
+    }
+
+    .customer-card .industry {
+        font-size: 14px;
+    }
+
+    .customer-card .location {
+        font-size: 13px;
+    }
+}
+
+/* Mobile View (<768px) */
+@media (max-width: 768px) {
+    .customer-section {
+        padding: 30px 0;
+    }
+
+    .customer-container {
+        padding: 0 15px;
+    }
+
+    .customer-header {
+        margin-bottom: 30px;
+    }
+
+    .customer-header h1 {
+        font-size: 32px;
+        margin-bottom: 12px;
+    }
+
+    .customer-header p {
+        font-size: 14px;
+        max-width: 100%;
+    }
+
+    .customer-grid {
+        gap: 20px;
+    }
+
+    .customer-row {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 15px;
+    }
+
+    .customer-card {
+        padding: 20px;
+        min-height: 200px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .company-logo {
+        width: 80px;
+        height: 80px;
+        margin-bottom: 12px;
+    }
+
+    .customer-card h3 {
+        font-size: 14px;
+        margin-bottom: 6px;
+    }
+
+    .customer-card .industry {
+        font-size: 13px;
+        margin-bottom: 3px;
+    }
+
+    .customer-card .location {
+        font-size: 12px;
+    }
+}
+
+/* Small Mobile View (<480px) */
+@media (max-width: 480px) {
+    .customer-row {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 12px;
+    }
+
+    .customer-card {
+        padding: 15px;
+        min-height: 180px;
+    }
+
+    .company-logo {
+        width: 70px;
+        height: 70px;
+        margin-bottom: 10px;
+    }
+
+    .customer-header h1 {
+        font-size: 28px;
+    }
+
+    .customer-header p {
+        font-size: 13px;
+    }
+}
