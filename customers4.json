@@ -1,0 +1,3650 @@
+[
+  {
+    "name": "Bosch Limited",
+    "industry": " Auto components",
+    "location": "Bangalore, KA",
+    "logo": "/Bosch-Limited.png"
+  },
+  {
+    "name": "Delphi TVS Diesel Systems Ltd.",
+    "industry": "Fuel Injection Equipments",
+    "location": "Sriperumbudur, TN",
+    "logo": "/Delphi-TVS-Diesel-Systems-Ltd..png"
+  },
+  {
+    "name": "Lauritz Knudsen",
+    "industry": "CMS(Electronics)",
+    "location": "Ahmednagar, MH",
+    "logo": "/Lauritz-Knudsen.png"
+  },
+  {
+    "name": "Schneider Electric India Pvt. Ltd.",
+    "industry": "Plastics components",
+    "location": "Bangalore, KA",
+    "logo": "/Schneider-Electric-India-Pvt.-Ltd..png"
+  },
+  {
+    "name": "Toyota Kirloskar Auto Parts P Ltd",
+    "industry": "Auto Compoents",
+    "location": "Bangalore, KA",
+    "logo": "/Toyota-Kirloskar-Auto-Parts-P-Ltd.png"
+  },
+  {
+    "name": "Toyota Boshoku Automotive (I) (P) Ltd",
+    "industry": "Auto Components",
+    "location": "Bangalore, KA",
+    "logo": "/Toyota-Boshoku-Automotive-(I)-(P)-Ltd.png"
+  },
+  {
+    "name": "SKF Engineering & Lubrication India P L",
+    "industry": "Bearing seals",
+    "location": "Bangalore, KA",
+    "logo": "/SKF-Engineering-&-Lubrication-India-P-L.png"
+  },
+  {
+    "name": "Shesha Tools Pvt Ltd.",
+    "industry": "Cutting tools",
+    "location": "Bangalore, KA",
+    "logo": "/Shesha-Tools-Pvt-Ltd..png"
+  },
+  {
+    "name": "Terminal Technologies P Ltd",
+    "industry": "Connector Components",
+    "location": "Thane, MH",
+    "logo": "/Terminal-Technologies-P-Ltd.png"
+  },
+  {
+    "name": "SSF Plastpro Limited",
+    "industry": "Injection Moulding",
+    "location": "Hosur, TN",
+    "logo": "/SSF-Plastpro-Limited.png"
+  },
+  {
+    "name": "INDO MIM Pvt Ltd",
+    "industry": "Aerospace components",
+    "location": "Bangalore, KA",
+    "logo": "/INDO-MIM-Pvt-Ltd.png"
+  },
+  {
+    "name": "ISRO Satellite Centre",
+    "industry": "Machined components",
+    "location": "Bangalore, KA",
+    "logo": "/ISRO-Satellite-Centre.png"
+  },
+  {
+    "name": "Bhabha Atomic Research Centre",
+    "industry": "Nuclear research centre",
+    "location": "Mumbai, MH",
+    "logo": "/Bhabha-Atomic-Research-Centre.png"
+  },
+  {
+    "name": "Ashok Leyland",
+    "industry": "Auto Components",
+    "location": "Coimbatore, TN",
+    "logo": "/Ashok-Leyland.png"
+  },
+  {
+    "name": "Bharat Electronics Ltd",
+    "industry": "CMS(Electronics)",
+    "location": "Bangalore, KA",
+    "logo": "/Bharat-Electronics-Ltd.png"
+  },
+  {
+    "name": "Indian Institute of Technology (BHU)",
+    "industry": "Educational Institution",
+    "location": "Varanasi, UP",
+    "logo": "/Indian-Institute-of-Technology-(BHU).png"
+  },
+  {
+    "name": "Hindustan Platinum Pvt Ltd",
+    "industry": "leading Mfg and refiner of precious metal and industrial products",
+    "location": "Navi Mumbai, MH",
+    "logo": "/Hindustan-Platinum-Pvt-Ltd.png"
+  },
+  {
+    "name": "Mindarika (P) Ltd",
+    "industry": "Auto components",
+    "location": "Gurgaon, HR",
+    "logo": "/Mindarika-(P)-Ltd.png"
+  },
+  {
+    "name": "Souriau India Pvt Ltd",
+    "industry": "Connector Components",
+    "location": "Coimbatore, TN",
+    "logo": "/Souriau-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "L G B Balakrishnan & Bros Limited",
+    "industry": "Auto components",
+    "location": "Coimbatore, TN",
+    "logo": "/L-G-B-Balakrishnan-&-Bros-Limited.png"
+  },
+  {
+    "name": "VMX Connectors Pvt Ltd",
+    "industry": "Connector Components",
+    "location": "Bangalore, KA",
+    "logo": "/VMX-Connectors-Pvt-Ltd.png"
+  },
+  {
+    "name": "Maini Precision Products (P) Ltd.",
+    "industry": "Auto components",
+    "location": "Bangalore, KA",
+    "logo": "/Maini-Precision-Products-(P)-Ltd..png"
+  },
+  {
+    "name": "West Pharmaceutical Services Singapore Pte Ltd",
+    "industry": "Mfg of pharma products",
+    "location": "none",
+    "logo": "/West-Pharmaceutical-Services-Singapore-Pte-Ltd.png"
+  },
+  {
+    "name": "Craftsman Automation P Ltd",
+    "industry": "Auto Components",
+    "location": "Coimbatore, TN",
+    "logo": "/Craftsman-Automation-P-Ltd.png"
+  },
+  {
+    "name": "Continental Automotive Components (I) P L",
+    "industry": "Auto Components",
+    "location": "Bangalore, KA",
+    "logo": "/Continental-Automotive-Components-(I)-P-L.png"
+  },
+  {
+    "name": "IFB Industries Ltd (Bangalore unit)",
+    "industry": "Auto Components",
+    "location": "Bangalore, KA",
+    "logo": "/IFB-Industries-Ltd-(Bangalore-unit).png"
+  },
+  {
+    "name": "Connectwell Industries P Ltd.",
+    "industry": "Connector Components",
+    "location": "Mumbai, MH",
+    "logo": "/Connectwell-Industries-P-Ltd..png"
+  },
+  {
+    "name": "Aurolab",
+    "industry": "Surgical and Medical Components",
+    "location": "Madurai, TN",
+    "logo": "/Aurolab.png"
+  },
+  {
+    "name": "Vikson Spring Pvt Ltd",
+    "industry": " Springs Mfgs",
+    "location": "Pune, MH",
+    "logo": "/Vikson-Spring-Pvt-Ltd.png"
+  },
+  {
+    "name": "Polycab Wires Pvt Ltd",
+    "industry": "none",
+    "location": "Nashik, MH",
+    "logo": "/Polycab-Wires-Pvt-Ltd.png"
+  },
+  {
+    "name": "Sandhar Automotives",
+    "industry": "Auto Components",
+    "location": "Gurgaon, HR",
+    "logo": "/Sandhar-Automotives.png"
+  },
+  {
+    "name": "HPL Electric & Power Pvt. Ltd",
+    "industry": "Plastics components",
+    "location": "Sonipat, HR",
+    "logo": "/HPL-Electric-&-Power-Pvt.-Ltd.png"
+  },
+  {
+    "name": "Federal Mogul Bearings India Limited",
+    "industry": "Auto Components",
+    "location": "Parwanoo, HP",
+    "logo": "/Federal-Mogul-Bearings-India-Limited.png"
+  },
+  {
+    "name": "Goodrich Aerospace Services P Ltd",
+    "industry": "Aerospace components",
+    "location": "Bangalore, KA",
+    "logo": "/Goodrich-Aerospace-Services-P-Ltd.png"
+  },
+  {
+    "name": "Elgi Equipments Ltd",
+    "industry": "Auto Components",
+    "location": "Coimbatore, TN",
+    "logo": "/Elgi-Equipments-Ltd.png"
+  },
+  {
+    "name": "Otto Bilz (I) P Ltd",
+    "industry": "Cutting Tools",
+    "location": "Bangalore, KA",
+    "logo": "/Otto-Bilz-(I)-P-Ltd.png"
+  },
+  {
+    "name": "PT. Minda Asean Automotive",
+    "industry": "Injection Moulding",
+    "location": "Jawa Barat",
+    "logo": "/PT.-Minda-Asean-Automotive.png"
+  },
+  {
+    "name": "Brakes India Pvt Ltd",
+    "industry": "Auto components",
+    "location": "Chennai, TN",
+    "logo": "/Brakes-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "Riyalto Enterprises",
+    "industry": "Auto Components",
+    "location": "Chennai, TN",
+    "logo": "/Riyalto-Enterprises.png"
+  },
+  {
+    "name": "Appasamy Associates",
+    "industry": "Surgical and Medical Components",
+    "location": "Villupuram, TN",
+    "logo": "/Appasamy-Associates.png"
+  },
+  {
+    "name": "CG Power & Industrial Solns Ltd",
+    "industry": "Plastic Components",
+    "location": "Nashik, MH",
+    "logo": "/CG-Power-&-Industrial-Solns-Ltd.png"
+  },
+  {
+    "name": "Malvika Jewellery Pvt Ltd",
+    "industry": "Jewellery design",
+    "location": "Mumbai, MH",
+    "logo": "/Malvika-Jewellery-Pvt-Ltd.png"
+  },
+  {
+    "name": "JetAvi Engineering Private Limited",
+    "industry": "Aerospace Components.",
+    "location": "Bangalore, KA",
+    "logo": "/JetAvi-Engineering-Private-Limited.png"
+  },
+  {
+    "name": "Mitsubishi Heavy Industries India Precision",
+    "industry": "Cutting tools",
+    "location": "Ranipet, TN",
+    "logo": "/Mitsubishi-Heavy-Industries-India-Precision.png"
+  },
+  {
+    "name": "Salcomp Manufacturing India Pvt Ltd",
+    "industry": "Plastic Components",
+    "location": "Chennai, TN",
+    "logo": "/Salcomp-Manufacturing-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "ACG Pam Pharma Technologies Pvt. Ltd",
+    "industry": "Tools for tablets and Pharma Industry",
+    "location": "Mumbai, MH",
+    "logo": "/ACG-Pam-Pharma-Technologies-Pvt.-Ltd.png"
+  },
+  {
+    "name": "Kiran Machine Tools",
+    "industry": "Spring Mfgs",
+    "location": "Jalgaon, MH",
+    "logo": "/Kiran-Machine-Tools.png"
+  },
+  {
+    "name": "Srinar Electronics Pvt Ltd",
+    "industry": "CMS(Electronics)",
+    "location": "Chennai, TN",
+    "logo": "/Srinar-Electronics-Pvt-Ltd.png"
+  },
+  {
+    "name": "UTC Aerospace Systems",
+    "industry": "Aerospace Components",
+    "location": "none",
+    "logo": "/UTC-Aerospace-Systems.png"
+  },
+  {
+    "name": "AO Smith India Water Heating Pvt Ltd",
+    "industry": "Global Water Technology",
+    "location": "Ramnagar, KA",
+    "logo": "/AO-Smith-India-Water-Heating-Pvt-Ltd.png"
+  },
+  {
+    "name": "Pointec Pens & Energy Pvt Ltd",
+    "industry": "Pens Mfgs",
+    "location": "Bangalore, KA",
+    "logo": "/Pointec-Pens-&-Energy-Pvt-Ltd.png"
+  },
+  {
+    "name": "Tata Consultancy Services Ltd",
+    "industry": "none",
+    "location": "Goa, GA",
+    "logo": "/Tata-Consultancy-Services-Ltd.png"
+  },
+  {
+    "name": "Carlisle Trading & Manufacturing India Pvt",
+    "industry": "Auto Components",
+    "location": "Sriperumbudur, TN",
+    "logo": "/Carlisle-Trading-&-Manufacturing-India-Pvt.png"
+  },
+  {
+    "name": "Aquasub Engineering",
+    "industry": "Pump Mfgs",
+    "location": "Coimbatore, TN",
+    "logo": "/Aquasub-Engineering.png"
+  },
+  {
+    "name": "Ace Multi Axes Systems Ltd.,",
+    "industry": "Machined Components",
+    "location": "Bangalore, KA",
+    "logo": "/Ace-Multi-Axes-Systems-Ltd.,.png"
+  },
+  {
+    "name": "Gilbarco Veeder Root India Pvt. Ltd.,",
+    "industry": "none",
+    "location": "Coimbatore, TN",
+    "logo": "/Gilbarco-Veeder-Root-India-Pvt.-Ltd.,.png"
+  },
+  {
+    "name": "Hical Technologies Pvt Ltd",
+    "industry": "Aerospace components",
+    "location": "Bangalore, KA",
+    "logo": "/Hical-Technologies-Pvt-Ltd.png"
+  },
+  {
+    "name": "Ripple Technologies",
+    "industry": "Aerospace components",
+    "location": "Bangalore, KA",
+    "logo": "/Ripple-Technologies.png"
+  },
+  {
+    "name": "ABB India Limitad",
+    "industry": "CMS(Electronics)",
+    "location": "Bangalore, KA",
+    "logo": "/ABB-India-Limitad.png"
+  },
+  {
+    "name": "Ferrero India Pvt Ltd (IMSOFER Division)",
+    "industry": "Chocolate Mfg",
+    "location": "Pune, MH",
+    "logo": "/Ferrero-India-Pvt-Ltd-(IMSOFER-Division).png"
+  },
+  {
+    "name": "Mangal Industries Limited",
+    "industry": "Battery Mfgs",
+    "location": "Chittor, AP",
+    "logo": "/Mangal-Industries-Limited.png"
+  },
+  {
+    "name": "Bhavani Industries",
+    "industry": "Auto Components",
+    "location": "Bangalore, KA",
+    "logo": "/Bhavani-Industries.png"
+  },
+  {
+    "name": "Titan Engineering & Automation Limited",
+    "industry": "Mfg of SPM",
+    "location": "Hosur, TN",
+    "logo": "/Titan-Engineering-&-Automation-Limited.png"
+  },
+  {
+    "name": "Kriya Medical Technologies Pvt Ltd",
+    "industry": "Medical Components",
+    "location": "Chennai, TN",
+    "logo": "/Kriya-Medical-Technologies-Pvt-Ltd.png"
+  },
+  {
+    "name": "Romsons International",
+    "industry": "none",
+    "location": "Noida, UP",
+    "logo": "/Romsons-International.png"
+  },
+  {
+    "name": "Iscon Surgicals Ltd.",
+    "industry": "Surgical and Medical components",
+    "location": "Jodhpur, RJ",
+    "logo": "/Iscon-Surgicals-Ltd..png"
+  },
+  {
+    "name": "Parle Tablet Tools Pvt Ltd.",
+    "industry": "Tools for tablets and Pharma Industry",
+    "location": "Thane, MH",
+    "logo": "/Parle-Tablet-Tools-Pvt-Ltd..png"
+  },
+  {
+    "name": "Sansera Engineering (P) Ltd",
+    "industry": "Auto Components",
+    "location": "Bangalore, KA",
+    "logo": "/Sansera-Engineering-(P)-Ltd.png"
+  },
+  {
+    "name": "SJS Enterprises (P) Ltd",
+    "industry": "Label Mfgs",
+    "location": "Bangalore, KA",
+    "logo": "/SJS-Enterprises-(P)-Ltd.png"
+  },
+  {
+    "name": "Havells india Ltd.",
+    "industry": "Electrical Switchgears",
+    "location": "Faridabad, HR",
+    "logo": "/Havells-india-Ltd..png"
+  },
+  {
+    "name": "Optics & Allied Engg Pvt Ltd",
+    "industry": "Optical Projects",
+    "location": "Bangalore, KA",
+    "logo": "/Optics-&-Allied-Engg-Pvt-Ltd.png"
+  },
+  {
+    "name": "Micro Plastics",
+    "industry": "Injection Moulding",
+    "location": "Bangalore, KA",
+    "logo": "/Micro-Plastics.png"
+  },
+  {
+    "name": "Tex Tech Industries (India) Pvt Ltd",
+    "industry": "Auto Components",
+    "location": "Coimbatore, TN",
+    "logo": "/Tex-Tech-Industries-(India)-Pvt-Ltd.png"
+  },
+  {
+    "name": "Servocontrols Aerospace (I) Pvt. Ltd.",
+    "industry": "Aerospace components",
+    "location": "Belgaum, KA",
+    "logo": "/Servocontrols-Aerospace-(I)-Pvt.-Ltd..png"
+  },
+  {
+    "name": "Alfanar Electrical System",
+    "industry": "Plastics components",
+    "location": " OVR",
+    "logo": "/Alfanar-Electrical-System.png"
+  },
+  {
+    "name": "Kaizen International",
+    "industry": "Tools for tablets and Pharma Industry",
+    "location": "Mumbai, MH",
+    "logo": "/Kaizen-International.png"
+  },
+  {
+    "name": "Diamond Tooling Systems",
+    "industry": "Daimond Cutting Tools",
+    "location": "Germany, OVR",
+    "logo": "/Diamond-Tooling-Systems.png"
+  },
+  {
+    "name": "Magneti Marelli Motherson Auto System Ltd.",
+    "industry": "Injection Moulding",
+    "location": "Pune, MH",
+    "logo": "/Magneti-Marelli-Motherson-Auto-System-Ltd..png"
+  },
+  {
+    "name": "TAL Manufacturing Solutions Ltd",
+    "industry": "Aerospace Components",
+    "location": "Pune, MH",
+    "logo": "/TAL-Manufacturing-Solutions-Ltd.png"
+  },
+  {
+    "name": "Honeywell International (India) Pvt. Ltd",
+    "industry": "Aerospace components",
+    "location": "Gurgaon, HR",
+    "logo": "/Honeywell-International-(India)-Pvt.-Ltd.png"
+  },
+  {
+    "name": "Wipro Enterprises Limited",
+    "industry": "Aerospace components",
+    "location": "Bangalore North, KA",
+    "logo": "/Wipro-Enterprises-Limited.png"
+  },
+  {
+    "name": "Autoliv India Pvt Ltd",
+    "industry": "Auto Parts",
+    "location": "Bangalore, KA",
+    "logo": "/Autoliv-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "Lakshmi Electrical Control Systems Limited",
+    "industry": "Mfgs of custom-engineered control panel ",
+    "location": "Coimbatore, TN",
+    "logo": "/Lakshmi-Electrical-Control-Systems-Limited.png"
+  },
+  {
+    "name": "Rieke Packing India Pvt Ltd",
+    "industry": "none",
+    "location": "Solan, HP",
+    "logo": "/Rieke-Packing-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "Turbo India",
+    "industry": "Mfg precision components for various industries and applications include components for electrical / electronic, Autos and many other industries.",
+    "location": "Bangalore, KA",
+    "logo": "/Turbo-India.png"
+  },
+  {
+    "name": "Titan Company Limited (Watch Division)",
+    "industry": "Watch Mfg",
+    "location": "Hosur, TN",
+    "logo": "/Titan-Company-Limited-(Watch-Division).png"
+  },
+  {
+    "name": "Compaero India Pvt Ltd",
+    "industry": "none",
+    "location": "Kochi, KL",
+    "logo": "/Compaero-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "Festo India Pvt Ltd",
+    "industry": "Auto Components",
+    "location": "Bangalore, KA",
+    "logo": "/Festo-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "Research Centre Imarat (RCI)",
+    "industry": "Research Center",
+    "location": "Hyderabad, TS",
+    "logo": "/Research-Centre-Imarat-(RCI).png"
+  },
+  {
+    "name": "Schwing Stetter (India) Pvt Ltd",
+    "industry": "none",
+    "location": "Kancheepuram, TN",
+    "logo": "/Schwing-Stetter-(India)-Pvt-Ltd.png"
+  },
+  {
+    "name": "Igarashi Motors India Ltd",
+    "industry": "Machined Components",
+    "location": "Chennai, TN",
+    "logo": "/Igarashi-Motors-India-Ltd.png"
+  },
+  {
+    "name": "Boeing India Pvt Ltd",
+    "industry": "Aerospace components",
+    "location": "Bnagalore, KA",
+    "logo": "/Boeing-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "Ametek Instrumentts India Pvt Ltd",
+    "industry": "Aerospace components",
+    "location": "Bangalore, KA",
+    "logo": "/Ametek-Instrumentts-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "AceInotec Manufacturing Pvt Ltd",
+    "industry": "Defence Components",
+    "location": "Bangalore, KA",
+    "logo": "/AceInotec-Manufacturing-Pvt-Ltd.png"
+  },
+  {
+    "name": "Motherson Techno Tools Limited",
+    "industry": "Auto Components",
+    "location": "Noida, UP",
+    "logo": "/Motherson-Techno-Tools-Limited.png"
+  },
+  {
+    "name": "C & S Electric Ltd",
+    "industry": "Electrical Components",
+    "location": "Haridwar, UK",
+    "logo": "/C-&-S-Electric-Ltd.png"
+  },
+  {
+    "name": "Mitsuba India Pvt Ltd (Mitsuba Sical India Pvt Ltd)",
+    "industry": "none",
+    "location": "Chennai, TN",
+    "logo": "/Mitsuba-India-Pvt-Ltd-(Mitsuba-Sical-India-Pvt-Ltd).png"
+  },
+  {
+    "name": "Indo MIM  Pvt Ltd",
+    "industry": "Aerospace components",
+    "location": "Bangalore, KA",
+    "logo": "/Indo-MIM--Pvt-Ltd.png"
+  },
+  {
+    "name": "Integra Automation P Ltd.",
+    "industry": "Auto components",
+    "location": "Chennai, TN",
+    "logo": "/Integra-Automation-P-Ltd..png"
+  },
+  {
+    "name": "Kun Aerospace Pvt Ltd",
+    "industry": "Aerospace components",
+    "location": "Chennai, TN",
+    "logo": "/Kun-Aerospace-Pvt-Ltd.png"
+  },
+  {
+    "name": "Motherson Innovative Engg Solutions P Ltd",
+    "industry": "Auto Components",
+    "location": "Chennai, TN",
+    "logo": "/Motherson-Innovative-Engg-Solutions-P-Ltd.png"
+  },
+  {
+    "name": "Trishul Machine Tools (P) Ltd.",
+    "industry": "Polygon Turning Machines",
+    "location": "Bangalore, KA",
+    "logo": "/Trishul-Machine-Tools-(P)-Ltd..png"
+  },
+  {
+    "name": "Stumpp Schuele & Somappa Springs Pvt Ltd",
+    "industry": "spring Mfgs",
+    "location": "Bangalore, KA",
+    "logo": "/Stumpp-Schuele-&-Somappa-Springs-Pvt-Ltd.png"
+  },
+  {
+    "name": "JBJ Machine Technologies (P) Ltd.",
+    "industry": "Auto components",
+    "location": "Noida, UP",
+    "logo": "/JBJ-Machine-Technologies-(P)-Ltd..png"
+  },
+  {
+    "name": "TGT Tech Private Limited",
+    "industry": "Mfg of CNC Cutter Grinders",
+    "location": "Bangalore, KA",
+    "logo": "/TGT-Tech-Private-Limited.png"
+  },
+  {
+    "name": "Dalal Plastic Corporation",
+    "industry": " Plastic components",
+    "location": "Navi Mumbai, MH",
+    "logo": "/Dalal-Plastic-Corporation.png"
+  },
+  {
+    "name": "Accusharp",
+    "industry": "Cutting tools",
+    "location": "Pune, MH",
+    "logo": "/Accusharp.png"
+  },
+  {
+    "name": "Sharp Industries",
+    "industry": "cutting tools",
+    "location": "Gurgaon, HR",
+    "logo": "/Sharp-Industries.png"
+  },
+  {
+    "name": "General Electric India Tech Centre",
+    "industry": "Aerospace components",
+    "location": "Bangalore, KA",
+    "logo": "/General-Electric-India-Tech-Centre.png"
+  },
+  {
+    "name": "Metalman Auto P Ltd",
+    "industry": "Auto Components",
+    "location": "Aurangabad, MH",
+    "logo": "/Metalman-Auto-P-Ltd.png"
+  },
+  {
+    "name": "Opel Auto Products P Ltd",
+    "industry": "Auto Components",
+    "location": "Chennai, TN",
+    "logo": "/Opel-Auto-Products-P-Ltd.png"
+  },
+  {
+    "name": "Yazaki India Pvt Ltd",
+    "industry": "Auto Components",
+    "location": "Pune, MH",
+    "logo": "/Yazaki-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "Mastercraft Engineers P Ltd",
+    "industry": " Injection Moulding",
+    "location": "Bangalore, KA",
+    "logo": "/Mastercraft-Engineers-P-Ltd.png"
+  },
+  {
+    "name": "Quality Needles (P) Ltd",
+    "industry": "Surgical Needles",
+    "location": "G.B Nagar, UP",
+    "logo": "/Quality-Needles-(P)-Ltd.png"
+  },
+  {
+    "name": "Rane Engine Valves Ltd",
+    "industry": "Engine valves",
+    "location": "Tumkur, KA",
+    "logo": "/Rane-Engine-Valves-Ltd.png"
+  },
+  {
+    "name": "Continental Automotive Components (I) P L",
+    "industry": "CMS(Electronics)",
+    "location": "Pune, MH",
+    "logo": "/Continental-Automotive-Components-(I)-P-L.png"
+  },
+  {
+    "name": "Ceratizit India Pvt Ltd",
+    "industry": "Auto Components",
+    "location": "Kolkata, WB",
+    "logo": "/Ceratizit-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "Kennametal ",
+    "industry": "Cutting tools",
+    "location": "Bangalore, KA",
+    "logo": "/Kennametal.png"
+  },
+  {
+    "name": "Lucas - TVS Limited",
+    "industry": "CMS(Electronics)",
+    "location": "Puducherry, TN",
+    "logo": "/Lucas---TVS-Limited.png"
+  },
+  {
+    "name": "Prime Precision Pvt Ltd",
+    "industry": "Cutting tools",
+    "location": "Kanpur, UP",
+    "logo": "/Prime-Precision-Pvt-Ltd.png"
+  },
+  {
+    "name": "College of Engineering",
+    "industry": "Educational Institution",
+    "location": "Pandharpur, MH",
+    "logo": "/College-of-Engineering.png"
+  },
+  {
+    "name": "Minda Industries Limited",
+    "industry": "Auto components",
+    "location": "Gurgaon, HR",
+    "logo": "/Minda-Industries-Limited.png"
+  },
+  {
+    "name": "Ashimori India Private Limited",
+    "industry": "Auto Components",
+    "location": "Alwar, HR",
+    "logo": "/Ashimori-India-Private-Limited.png"
+  },
+  {
+    "name": "Nikash CNC Enineers Pvt Ltd",
+    "industry": "Mfg of Machined components for the Auto, Electrical Rotating Machines and General Engineering industries.",
+    "location": "Ahmednagar, MH",
+    "logo": "/Nikash-CNC-Enineers-Pvt-Ltd.png"
+  },
+  {
+    "name": "PLANSEE India High Performance Materials Pvt Ltd",
+    "industry": "Auto Components",
+    "location": "Mysore, KA",
+    "logo": "/PLANSEE-India-High-Performance-Materials-Pvt-Ltd.png"
+  },
+  {
+    "name": "Souriau India P Ltd. (Cbe)",
+    "industry": "Connector Components",
+    "location": "Coimbatore, TN",
+    "logo": "/Souriau-India-P-Ltd.-(Cbe).png"
+  },
+  {
+    "name": "Renata Precision Components Pvt Ltd",
+    "industry": "Injection Moulding",
+    "location": "Pune, MH",
+    "logo": "/Renata-Precision-Components-Pvt-Ltd.png"
+  },
+  {
+    "name": "Napino Auto & Electronics Ltd",
+    "industry": "CMS(Electronics)",
+    "location": "Haridwar, UK",
+    "logo": "/Napino-Auto-&-Electronics-Ltd.png"
+  },
+  {
+    "name": "Star Engineers (I) Pvt Ltd",
+    "industry": "CMS(Electronics)",
+    "location": "Pune, MH",
+    "logo": "/Star-Engineers-(I)-Pvt-Ltd.png"
+  },
+  {
+    "name": "Senor Metal Pvt Ltd",
+    "industry": "One ofg the leading Mfg of various copper",
+    "location": "Jamnagar, GJ",
+    "logo": "/Senor-Metal-Pvt-Ltd.png"
+  },
+  {
+    "name": "Shogini Technoarts Pvt Ltd",
+    "industry": "CMS(Electronics)",
+    "location": "Pune, MH",
+    "logo": "/Shogini-Technoarts-Pvt-Ltd.png"
+  },
+  {
+    "name": "Gnutti Carlo India Pvt ltd",
+    "industry": "Auto Components",
+    "location": "Ranipet, TN",
+    "logo": "/Gnutti-Carlo-India-Pvt-ltd.png"
+  },
+  {
+    "name": "TVS Upasana Limited",
+    "industry": "CMS(Electronics)",
+    "location": "Chennai, TN",
+    "logo": "/TVS-Upasana-Limited.png"
+  },
+  {
+    "name": "Dieplast Pvt Ltd",
+    "industry": "Injection Moulding",
+    "location": "Thane, MH",
+    "logo": "/Dieplast-Pvt-Ltd.png"
+  },
+  {
+    "name": "Motherson Sintermetal Technology Limited",
+    "industry": "Auto Components",
+    "location": "Pondicherry, TN",
+    "logo": "/Motherson-Sintermetal-Technology-Limited.png"
+  },
+  {
+    "name": "TVS Novotema Elestomeric Engineered Pro",
+    "industry": "none",
+    "location": "Madurai, TN",
+    "logo": "/TVS-Novotema-Elestomeric-Engineered-Pro.png"
+  },
+  {
+    "name": "CNC Automotive",
+    "industry": "Auto Components",
+    "location": "Bangalore, KA",
+    "logo": "/CNC-Automotive.png"
+  },
+  {
+    "name": "Taylor Rubber Pvt Ltd",
+    "industry": "Rubber Components",
+    "location": "Chennai, TN",
+    "logo": "/Taylor-Rubber-Pvt-Ltd.png"
+  },
+  {
+    "name": "Tool Aids Pvt Ltd",
+    "industry": "Micro Cutting Tools",
+    "location": "Chennai, TN",
+    "logo": "/Tool-Aids-Pvt-Ltd.png"
+  },
+  {
+    "name": "Speciality Sintered Products P Ltd (shirwal Plant)",
+    "industry": "Sintered components",
+    "location": "Khandala, MH",
+    "logo": "/Speciality-Sintered-Products-P-Ltd-(shirwal-Plant).png"
+  },
+  {
+    "name": "Ustek Makina San. Tic. Ltd. Sti",
+    "industry": "none",
+    "location":  "none",
+    "logo": "/Ustek-Makina-San.-Tic.-Ltd.-Sti.png"
+  },
+  {
+    "name": "ABI Showatech (India) Limited",
+    "industry": "Cutting Tools",
+    "location": "Vellore, TN",
+    "logo": "/ABI-Showatech-(India)-Limited.png"
+  },
+  {
+    "name": "Parle Elizabeth Tools Pvt. Ltd",
+    "industry": "Tools for Tablets and Pharma Industry",
+    "location": "Thane, MH",
+    "logo": "/Parle-Elizabeth-Tools-Pvt.-Ltd.png"
+  },
+  {
+    "name": "J K Fenner (India) Limited",
+    "industry": "Transmission",
+    "location": "Kanchipuram, TN",
+    "logo": "/J-K-Fenner-(India)-Limited.png"
+  },
+  {
+    "name": "Punch Ratna Fasteners Pvt. Ltd",
+    "industry": "Fastner Components",
+    "location": "Rohtak, HR",
+    "logo": "/Punch-Ratna-Fasteners-Pvt.-Ltd.png"
+  },
+  {
+    "name": "Novateur Electrical & Digital Systems Pvt. L",
+    "industry": "CMS(Electronics)",
+    "location": "Jalgaon, MH",
+    "logo": "/Novateur-Electrical-&-Digital-Systems-Pvt.-L.png"
+  },
+  {
+    "name": "Toyota Industries Engine India Pvt. Ltd",
+    "industry": "Machined Components",
+    "location": "Bangalore, KA",
+    "logo": "/Toyota-Industries-Engine-India-Pvt.-Ltd.png"
+  },
+  {
+    "name": "Indian Institute of Technology (Bombay)",
+    "industry": "Educational Institution",
+    "location": "Mumbai, MH",
+    "logo": "/Indian-Institute-of-Technology-(Bombay).png"
+  },
+  {
+    "name": "Micron Instruments Pvt. Ltd.,",
+    "industry": "Machined Components",
+    "location": "Chandigarh, HR",
+    "logo": "/Micron-Instruments-Pvt.-Ltd.,.png"
+  },
+  {
+    "name": "Ganesh Industries",
+    "industry": "Auto Components",
+    "location": "Pune, MH",
+    "logo": "/Ganesh-Industries.png"
+  },
+  {
+    "name": "Doctor Pack India Pvt. Ltd.,",
+    "industry": "Tools for Tablets and Pharma Industry",
+    "location": "Bangalore, KA",
+    "logo": "/Doctor-Pack-India-Pvt.-Ltd.,.png"
+  },
+  {
+    "name": "Velankani Electronics Pvt. Ltd.,",
+    "industry": "CMS(Electronics)",
+    "location": "Bangalore, KA",
+    "logo": "/Velankani-Electronics-Pvt.-Ltd.,.png"
+  },
+  {
+    "name": "Bhabha Atomic Research Centre",
+    "industry": "Research Center",
+    "location": "Mumbai, MH",
+    "logo": "/Bhabha-Atomic-Research-Centre.png"
+  },
+  {
+    "name": "J.J. Glasstronics",
+    "industry": "Auto Components",
+    "location": "Bangalore, KA",
+    "logo": "/J.J.-Glasstronics.png"
+  },
+  {
+    "name": "Milacron India Pvt. Ltd.,",
+    "industry": "Injection Moulding",
+    "location": "Ahmedabad, GJ",
+    "logo": "/Milacron-India-Pvt.-Ltd.,.png"
+  },
+  {
+    "name": "Magneti Marelli Motherson Auto System Ltd",
+    "industry": "Auto  Components",
+    "location": "Ahmedabad, GJ",
+    "logo": "/Magneti-Marelli-Motherson-Auto-System-Ltd.png"
+  },
+  {
+    "name": "TopFlite Components Pvt Ltd",
+    "industry": "Aerospace components",
+    "location": "Mysore, KA",
+    "logo": "/TopFlite-Components-Pvt-Ltd.png"
+  },
+  {
+    "name": "Toyota Kirloskar Auto Parts P Ltd",
+    "industry": "Auto Components",
+    "location": "Bangalore, KA",
+    "logo": "/Toyota-Kirloskar-Auto-Parts-P-Ltd.png"
+  },
+  {
+    "name": "Rupa Engineering Industries",
+    "industry": "Auto Components",
+    "location": "Coimbatore, TN",
+    "logo": "/Rupa-Engineering-Industries.png"
+  },
+  {
+    "name": "CG Power & Industrial Solns Ltd",
+    "industry": "CMS(Electronics)",
+    "location": "Nashik, MH",
+    "logo": "/CG-Power-&-Industrial-Solns-Ltd.png"
+  },
+  {
+    "name": "Interface Microsystems",
+    "industry": "CMS(Electronics)",
+    "location": "Gurgaon, HR",
+    "logo": "/Interface-Microsystems.png"
+  },
+  {
+    "name": "Anchor Electricals Pvt Ltd",
+    "industry": "CMS(Electronics)",
+    "location": "Haridwar, UK",
+    "logo": "/Anchor-Electricals-Pvt-Ltd.png"
+  },
+  {
+    "name": "Ravi Plast Mold Pvt Ltd",
+    "industry": "Injection Moulding",
+    "location": "Ahmedabad, GJ",
+    "logo": "/Ravi-Plast-Mold-Pvt-Ltd.png"
+  },
+  {
+    "name": "Vasantha Tool Crafts Pvt Ltd",
+    "industry": "Injection Moulding",
+    "location": "Hyderabad, TS",
+    "logo": "/Vasantha-Tool-Crafts-Pvt-Ltd.png"
+  },
+  {
+    "name": "Fair Field Engineers",
+    "industry": "none",
+    "location": "Faridabad, HR",
+    "logo": "/Fair-Field-Engineers.png"
+  },
+  {
+    "name": "Vivid Tool Crafts",
+    "industry": "Plastic Components",
+    "location": "Hyderabad, TS",
+    "logo": "/Vivid-Tool-Crafts.png"
+  },
+  {
+    "name": "SEKISUI DLJM Molding Pvt Ltd",
+    "industry": "Injection Moulding",
+    "location": "Greater Noida, UP",
+    "logo": "/SEKISUI-DLJM-Molding-Pvt-Ltd.png"
+  },
+  {
+    "name": "CIM Tools Pvt Ltd",
+    "industry": "Aerospace components",
+    "location": "Bangalore, KA",
+    "logo": "/CIM-Tools-Pvt-Ltd.png"
+  },
+  {
+    "name": "Concord United Products Pvt Ltd",
+    "industry": "Mfg of CNC Wire Cut EDM and EDM Drilling Machines",
+    "location": "Bangalore, KA",
+    "logo": "/Concord-United-Products-Pvt-Ltd.png"
+  },
+  {
+    "name": "Akuva Infotech Pvt Ltd",
+    "industry": "Metrology Services",
+    "location": "Bangalore, KA",
+    "logo": "/Akuva-Infotech-Pvt-Ltd.png"
+  },
+  {
+    "name": "Kawasaki Manufacturing (India) Pvt Ltd (Arma Engineering Pvt Ltd)",
+    "industry": "Machined Components",
+    "location": "Bangalore, KA",
+    "logo": "/Kawasaki-Manufacturing-(India)-Pvt-Ltd-(Arma-Engineering-Pvt-Ltd).png"
+  },
+  {
+    "name": "Spaco Technologies (India) Pvt Ltd",
+    "industry": "Machined Components",
+    "location": "Pune, MH",
+    "logo": "/Spaco-Technologies-(India)-Pvt-Ltd.png"
+  },
+  {
+    "name": "Ashwani Metals Pvt Ltd",
+    "industry": "Brass Components",
+    "location": "Jamnagar, GJ",
+    "logo": "/Ashwani-Metals-Pvt-Ltd.png"
+  },
+  {
+    "name": "Helvoet Rubber & Plastic Technologies (I) Pvt Ltd",
+    "industry": "Rubber and  Components",
+    "location": "Pune, MH",
+    "logo": "/Helvoet-Rubber-&-Plastic-Technologies-(I)-Pvt-Ltd.png"
+  },
+  {
+    "name": "Solutec Industries (I) Pvt Ltd",
+    "industry": "Injection Moulding",
+    "location": "Pune, MH",
+    "logo": "/Solutec-Industries-(I)-Pvt-Ltd.png"
+  },
+  {
+    "name": "Unnathi CNC Technologies Pvt Ltd",
+    "industry": "Aerospace components",
+    "location": "Bangalore, KA",
+    "logo": "/Unnathi-CNC-Technologies-Pvt-Ltd.png"
+  },
+  {
+    "name": "Saro Technologies",
+    "industry": "Injection Moulding",
+    "location": "Chennai, TN",
+    "logo": "/Saro-Technologies.png"
+  },
+  {
+    "name": "Mehta Engineers Limited",
+    "industry": "Auto Components",
+    "location": "Ludhiana, PJ",
+    "logo": "/Mehta-Engineers-Limited.png"
+  },
+  {
+    "name": "British Engine India Pvt Ltd",
+    "industry": "Valve Mfgs",
+    "location": "Bangalore, KA",
+    "logo": "/British-Engine-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "Crescent Moulds & Precision Engineering",
+    "industry": "Injection Moulding",
+    "location": "Chennai, TN",
+    "logo": "/Crescent-Moulds-&-Precision-Engineering.png"
+  },
+  {
+    "name": "Spiral Tools Pvt Ltd",
+    "industry": "Cutting Tools",
+    "location": "Pune, MH",
+    "logo": "/Spiral-Tools-Pvt-Ltd.png"
+  },
+  {
+    "name": "Modvak Engineering (I) Pvt Ltd",
+    "industry": "Auto Components",
+    "location": "Bahadurgarh, HR",
+    "logo": "/Modvak-Engineering-(I)-Pvt-Ltd.png"
+  },
+  {
+    "name": "ELCIA Cluster",
+    "industry": "Engineering Cluster",
+    "location": "Bangalore, KA",
+    "logo": "/ELCIA-Cluster.png"
+  },
+  {
+    "name": "Dalal Plastics PvtLtd",
+    "industry": "Plastic Components",
+    "location": "Hyderabad, TS",
+    "logo": "/Dalal-Plastics-PvtLtd.png"
+  },
+  {
+    "name": "Oswin Industries",
+    "industry": "none",
+    "location": "Punchkula, HR",
+    "logo": "/Oswin-Industries.png"
+  },
+  {
+    "name": "Seco Tools India Pvt Ltd",
+    "industry": "Metal cutting solutions for milling, stationary tools, holemaking and tooling systems. ",
+    "location": "Pune, MH",
+    "logo": "/Seco-Tools-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "Deep Plastics Industries",
+    "industry": "none",
+    "location": "Thane, MH",
+    "logo": "/Deep-Plastics-Industries.png"
+  },
+  {
+    "name": "Polyrub Cooper Standard FTS Pvt Ltd",
+    "industry": "Rubber Components",
+    "location": "Pune, MH",
+    "logo": "/Polyrub-Cooper-Standard-FTS-Pvt-Ltd.png"
+  },
+  {
+    "name": "Ikon Moulders Pvt Ltd",
+    "industry": "manufactures plastic moulded components & assemblies for a variety of industries.",
+    "location": "Ahmednagar, MH",
+    "logo": "/Ikon-Moulders-Pvt-Ltd.png"
+  },
+  {
+    "name": "Minda VAST Access Systems Pvt Ltd",
+    "industry": "Market leader in security systems for the Auto industry",
+    "location": "Pune, MH",
+    "logo": "/Minda-VAST-Access-Systems-Pvt-Ltd.png"
+  },
+  {
+    "name": "Maini Precision Products Ltd.",
+    "industry": "none",
+    "location": "Bangalore, KA",
+    "logo": "/Maini-Precision-Products-Ltd..png"
+  },
+  {
+    "name": "Saanvi Technologies",
+    "industry": "none",
+    "location": "Bangalore, KA",
+    "logo": "/Saanvi-Technologies.png"
+  },
+  {
+    "name": "Padmini VNA Mechatronics Pvt Ltd",
+    "industry": "none",
+    "location": "Gurgaon, HR",
+    "logo": "/Padmini-VNA-Mechatronics-Pvt-Ltd.png"
+  },
+  {
+    "name": "Zenith Precision Pvt Ltd",
+    "industry": "none",
+    "location": "Bangalore, KA",
+    "logo": "/Zenith-Precision-Pvt-Ltd.png"
+  },
+  {
+    "name": "Vikson Spring Pvt Ltd",
+    "industry": "none",
+    "location": "Navi Mumbai, MH",
+    "logo": "/Vikson-Spring-Pvt-Ltd.png"
+  },
+  {
+    "name": "SMIIEL (A Unit of MSSL)",
+    "industry": "none",
+    "location": "Noida, UP",
+    "logo": "/SMIIEL-(A-Unit-of-MSSL).png"
+  },
+  {
+    "name": "Paloma Turning Co. Pvt. Ltd",
+    "industry": "none",
+    "location": "Jamnagar, GJ",
+    "logo": "/Paloma-Turning-Co.-Pvt.-Ltd.png"
+  },
+  {
+    "name": "Takemoto Yohki India Pvt Ltd",
+    "industry": "none",
+    "location": "Ahmedabad, GJ",
+    "logo": "/Takemoto-Yohki-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "Sujan Cooperstandard AVS Pvt Ltd",
+    "industry": "none",
+    "location": "Pune, MH",
+    "logo": "/Sujan-Cooperstandard-AVS-Pvt-Ltd.png"
+  },
+  {
+    "name": "Iscon Surgicals Ltd.",
+    "industry": "none",
+    "location": "Jodhpur, RJ",
+    "logo": "/Iscon-Surgicals-Ltd..png"
+  },
+  {
+    "name": "Fine Line Circuits Limited (HTMU)",
+    "industry": "none",
+    "location": "Mumbai, MH",
+    "logo": "/Fine-Line-Circuits-Limited-(HTMU).png"
+  },
+  {
+    "name": "Vijaya Auto Products",
+    "industry": "none",
+    "location": "Bangalore, KA",
+    "logo": "/Vijaya-Auto-Products.png"
+  },
+  {
+    "name": "Eastman Cast & Forge Limited",
+    "industry": "none",
+    "location": "Ludhiana, PJ",
+    "logo": "/Eastman-Cast-&-Forge-Limited.png"
+  },
+  {
+    "name": "Spacenex Aero Pvt Ltd",
+    "industry": "none",
+    "location": "Bangalore, KA",
+    "logo": "/Spacenex-Aero-Pvt-Ltd.png"
+  },
+  {
+    "name": "Johnson Electric Pvt Ltd",
+    "industry": "none",
+    "location": "Chennai, TN",
+    "logo": "/Johnson-Electric-Pvt-Ltd.png"
+  },
+  {
+    "name": "Henkel Anand India Pvt Ltd",
+    "industry": "none",
+    "location": "Parwanoo, HP",
+    "logo": "/Henkel-Anand-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "Ananth Wiretech Tooling",
+    "industry": "none",
+    "location": "Hosur, TN",
+    "logo": "/Ananth-Wiretech-Tooling.png"
+  },
+  {
+    "name": "Integrated CAD CAM Solutions Pvt Ltd",
+    "industry": "none",
+    "location": "Navi Mumbai, MH",
+    "logo": "/Integrated-CAD-CAM-Solutions-Pvt-Ltd.png"
+  },
+  {
+    "name": "Saini Flange Pvt Ltd",
+    "industry": "none",
+    "location": "Sonepat, HR",
+    "logo": "/Saini-Flange-Pvt-Ltd.png"
+  },
+  {
+    "name": "Mark Ortho Care pvt ltd",
+    "industry": "none",
+    "location": "Ahmedabad, GJ",
+    "logo": "/Mark-Ortho-Care-pvt-ltd.png"
+  },
+  {
+    "name": "Acumen Tools",
+    "industry": "none",
+    "location": "Bangalore, KA",
+    "logo": "/Acumen-Tools.png"
+  },
+  {
+    "name": "PV Clean Mobility Technologies Pvt Ltd",
+    "industry": "none",
+    "location": "Pune, MH",
+    "logo": "/PV-Clean-Mobility-Technologies-Pvt-Ltd.png"
+  },
+  {
+    "name": "HSIL Limited ",
+    "industry": "none",
+    "location": "Patancheru, TS",
+    "logo": "/HSIL-Limited.png"
+  },
+  {
+    "name": "Motion Drivetronics Pvt Ltd",
+    "industry": "none",
+    "location": "Navi Mumbai, MH",
+    "logo": "/Motion-Drivetronics-Pvt-Ltd.png"
+  },
+  {
+    "name": "Harinder Industries Pvt Ltd",
+    "industry": "none",
+    "location": "Gurgaon, HR",
+    "logo": "/Harinder-Industries-Pvt-Ltd.png"
+  },
+  {
+    "name": "Kirloskar Toyota Textile Machinery Pvt. Ltd",
+    "industry": "none",
+    "location": "Bangalore, KA",
+    "logo": "/Kirloskar-Toyota-Textile-Machinery-Pvt.-Ltd.png"
+  },
+  {
+    "name": "RR Precision (India) Pvt Ltd",
+    "industry": "none",
+    "location": "Kolar, KA",
+    "logo": "/RR-Precision-(India)-Pvt-Ltd.png"
+  },
+  {
+    "name": "Stein Seal Company (India) Pvt Ltd",
+    "industry": "none",
+    "location": "Bangalore, KA",
+    "logo": "/Stein-Seal-Company-(India)-Pvt-Ltd.png"
+  },
+  {
+    "name": "S.R.S Tools",
+    "industry": "Cutting tools",
+    "location": "Bnagalore, KA",
+    "logo": "/S.R.S-Tools.png"
+  },
+  {
+    "name": "Hindustan Platinum PR ",
+    "industry": "none",
+    "location": "Puerto Rico, PR",
+    "logo": "/Hindustan-Platinum-PR.png"
+  },
+  {
+    "name": "Technotool Solutions India LLP",
+    "industry": "Cutting Tools",
+    "location": "Bangalore, KA",
+    "logo": "/Technotool-Solutions-India-LLP.png"
+  },
+  {
+    "name": "Optomech Engineers P Ltd",
+    "industry": "Optical projectors",
+    "location": "Hyderabad, AP",
+    "logo": "/Optomech-Engineers-P-Ltd.png"
+  },
+  {
+    "name": "Mastercraft Engineers P Ltd",
+    "industry": "Injection Moulding ",
+    "location": "Bangalore, KA",
+    "logo": "/Mastercraft-Engineers-P-Ltd.png"
+  },
+  {
+    "name": "GKDITR Tooling Centre",
+    "industry": "Injection Moulding ",
+    "location": "Coimbatore, TN",
+    "logo": "/GKDITR-Tooling-Centre.png"
+  },
+  {
+    "name": "Omni Matrix Pvt Ltd",
+    "industry": "Auto Components",
+    "location": "Bangalore, KA",
+    "logo": "/Omni-Matrix-Pvt-Ltd.png"
+  },
+  {
+    "name": "Motherson Sumi Systems Ltd.,",
+    "industry": "Auto components",
+    "location": "Bangalore, KA",
+    "logo": "/Motherson-Sumi-Systems-Ltd.,.png"
+  },
+  {
+    "name": "College of Engineering",
+    "industry": "Educational Institution",
+    "location": "Tiruvananthapuram, KL",
+    "logo": "/College-of-Engineering.png"
+  },
+  {
+    "name": "Centum Industries P Ltd.",
+    "industry": "Light Switch-gear Assemblies",
+    "location": "Bangalore, KA",
+    "logo": "/Centum-Industries-P-Ltd..png"
+  },
+  {
+    "name": "General Industrial Controls (P) Ltd",
+    "industry": "Industrial Control systems",
+    "location": "Pune, MH",
+    "logo": "/General-Industrial-Controls-(P)-Ltd.png"
+  },
+  {
+    "name": "Nicholas Piramal India Limited",
+    "industry": "Pharmaceuticals",
+    "location": "Mumbai, MH",
+    "logo": "/Nicholas-Piramal-India-Limited.png"
+  },
+  {
+    "name": "MTL Instruments Pvt. Ltd.",
+    "industry": "Auto Components",
+    "location": "Chennai, TN",
+    "logo": "/MTL-Instruments-Pvt.-Ltd..png"
+  },
+  {
+    "name": "Alagappa Chettiar College of Engineering",
+    "industry": "Educational Institution",
+    "location": "Karaikudi, TN",
+    "logo": "/Alagappa-Chettiar-College-of-Engineering.png"
+  },
+  {
+    "name": "Positronic Interconnects Pvt. Ltd.,",
+    "industry": "CMS(Electronics)",
+    "location": "Pune, MH",
+    "logo": "/Positronic-Interconnects-Pvt.-Ltd.,.png"
+  },
+  {
+    "name": "Jakap Metind Pvt Ltd",
+    "industry": "Auto Components",
+    "location": "Pune, MH",
+    "logo": "/Jakap-Metind-Pvt-Ltd.png"
+  },
+  {
+    "name": "Central Electrochemical Research Institute",
+    "industry": "Hi-Technology Electro-chem Research",
+    "location": "Karaikudi, TN",
+    "logo": "/Central-Electrochemical-Research-Institute.png"
+  },
+  {
+    "name": "Abhi burnishing Tools",
+    "industry": "Fine Burnishing Tools",
+    "location": "Coimbatore, TN",
+    "logo": "/Abhi-burnishing-Tools.png"
+  },
+  {
+    "name": "Harkesh Rubber Industries",
+    "industry": "Rubber components",
+    "location": "Mumbai, MH",
+    "logo": "/Harkesh-Rubber-Industries.png"
+  },
+  {
+    "name": "Maraica Industries",
+    "industry": "Sheet Metal parts",
+    "location": "Kolkata, WB",
+    "logo": "/Maraica-Industries.png"
+  },
+  {
+    "name": "Spectrum Tool Engineers (P) Ltd",
+    "industry": "Injection Moulding",
+    "location": "Bangalore, KA",
+    "logo": "/Spectrum-Tool-Engineers-(P)-Ltd.png"
+  },
+  {
+    "name": "Caparo Engineering India Pvt. Ltd",
+    "industry": "Aluminium Pressure Die-cast components",
+    "location": "Kanchipuram, TN",
+    "logo": "/Caparo-Engineering-India-Pvt.-Ltd.png"
+  },
+  {
+    "name": "KJK Polydiamonds P Ltd",
+    "industry": "Diamond cutting Tools",
+    "location": "Chennai, TN",
+    "logo": "/KJK-Polydiamonds-P-Ltd.png"
+  },
+  {
+    "name": "IP Pins Ltd",
+    "industry": "Diamond cutting Tools",
+    "location": "Kanchipuram, TN",
+    "logo": "/IP-Pins-Ltd.png"
+  },
+  {
+    "name": "Rimtex Engineering P Ltd.",
+    "industry": "Textile Industries",
+    "location": "Surender Nagar, GJ",
+    "logo": "/Rimtex-Engineering-P-Ltd..png"
+  },
+  {
+    "name": "Nebula Technologies",
+    "industry": "Metrology Services",
+    "location": "Bangalore, KA",
+    "logo": "/Nebula-Technologies.png"
+  },
+  {
+    "name": "Excelon Technologies",
+    "industry": "Auto Components",
+    "location": "Bangalore, KA",
+    "logo": "/Excelon-Technologies.png"
+  },
+  {
+    "name": "Zenith Precision Pvt Ltd",
+    "industry": "Auto Components",
+    "location": "Bangalore, KA",
+    "logo": "/Zenith-Precision-Pvt-Ltd.png"
+  },
+  {
+    "name": "Phoenix Textile Engineering Pvt Ltd",
+    "industry": "Textile Industries",
+    "location": "Pune, MH",
+    "logo": "/Phoenix-Textile-Engineering-Pvt-Ltd.png"
+  },
+  {
+    "name": "Kesaria Rubber Industries (P) Ltd",
+    "industry": "Rubber components",
+    "location": "Gurgaon, HR",
+    "logo": "/Kesaria-Rubber-Industries-(P)-Ltd.png"
+  },
+  {
+    "name": "Nutech Sintered Products (P) Ltd.",
+    "industry": "Sintered Components",
+    "location": "Thane, MH",
+    "logo": "/Nutech-Sintered-Products-(P)-Ltd..png"
+  },
+  {
+    "name": "Sun Casting",
+    "industry": "Aluminium Pressure Die-cast Components",
+    "location": "Bangalore, KA",
+    "logo": "/Sun-Casting.png"
+  },
+  {
+    "name": "First Engineering Plastics (I) (P) Ltd",
+    "industry": "Plastic components",
+    "location": "Sriperumbudur, TN",
+    "logo": "/First-Engineering-Plastics-(I)-(P)-Ltd.png"
+  },
+  {
+    "name": "Sargam Diecastings P Ltd",
+    "industry": "Aluminium Pressure Die-cast Components",
+    "location": "Chennai, TN",
+    "logo": "/Sargam-Diecastings-P-Ltd.png"
+  },
+  {
+    "name": "Patco Precision Components P Ltd",
+    "industry": "Connector Components",
+    "location": "Nashik, MH",
+    "logo": "/Patco-Precision-Components-P-Ltd.png"
+  },
+  {
+    "name": "R R Engineering & Exports",
+    "industry": "Auto Components",
+    "location": "Kolar, KA",
+    "logo": "/R-R-Engineering-&-Exports.png"
+  },
+  {
+    "name": "Reliance Diamond Tools",
+    "industry": "Diamond Cutting Tools",
+    "location": "Chennai, TN",
+    "logo": "/Reliance-Diamond-Tools.png"
+  },
+  {
+    "name": "Prisms India P Ltd",
+    "industry": "Optical Projects",
+    "location": "Pondicherry, TN",
+    "logo": "/Prisms-India-P-Ltd.png"
+  },
+  {
+    "name": "Besmak Components P Ltd",
+    "industry": "Plastic components",
+    "location": "Chennai, TN",
+    "logo": "/Besmak-Components-P-Ltd.png"
+  },
+  {
+    "name": "Bhumi brass and Alloy",
+    "industry": " Brass Components",
+    "location": "Jamnagar, GJ",
+    "logo": "/Bhumi-brass-and-Alloy.png"
+  },
+  {
+    "name": "Quality Needles (P) Ltd",
+    "industry": "Suture Needles",
+    "location": "Noida, UP",
+    "logo": "/Quality-Needles-(P)-Ltd.png"
+  },
+  {
+    "name": "Precihole Machine Tools PVT. Ltd.",
+    "industry": "Auto Components",
+    "location": "Thane, MH",
+    "logo": "/Precihole-Machine-Tools-PVT.-Ltd..png"
+  },
+  {
+    "name": "Lakshmi Technology & Eng. I Ltd.",
+    "industry": "Aerospace Components",
+    "location": "Coimbatore, TN",
+    "logo": "/Lakshmi-Technology-&-Eng.-I-Ltd..png"
+  },
+  {
+    "name": "Amritha Tool Crafts Pvt. Ltd.",
+    "industry": " Plastic Components",
+    "location": "Hyderabad, AP",
+    "logo": "/Amritha-Tool-Crafts-Pvt.-Ltd..png"
+  },
+  {
+    "name": "General Surgical Company (I) PVT. Ltd.",
+    "industry": "Surgical and Medical components",
+    "location": "Chennai, TN",
+    "logo": "/General-Surgical-Company-(I)-PVT.-Ltd..png"
+  },
+  {
+    "name": "Sunvision Technologies P Ltd",
+    "industry": "Metrology Services",
+    "location": "Mumbai, MH",
+    "logo": "/Sunvision-Technologies-P-Ltd.png"
+  },
+  {
+    "name": "Itema Spinning India Limited",
+    "industry": "Textile components",
+    "location": "Coimbatore, TN",
+    "logo": "/Itema-Spinning-India-Limited.png"
+  },
+  {
+    "name": "Protectron Electromech P Ltd",
+    "industry": "CMS(Electronics)",
+    "location": "Bangalore, KA",
+    "logo": "/Protectron-Electromech-P-Ltd.png"
+  },
+  {
+    "name": "Microfine Bushings P Ltd",
+    "industry": "Aerospace Components",
+    "location": "Chennai, TN",
+    "logo": "/Microfine-Bushings-P-Ltd.png"
+  },
+  {
+    "name": "Bhavani Industries",
+    "industry": "Auto Components",
+    "location": "Bangalore, KA",
+    "logo": "/Bhavani-Industries.png"
+  },
+  {
+    "name": "Master Moulds P Ltd",
+    "industry": "Injection Moulding",
+    "location": "Nashik, MH",
+    "logo": "/Master-Moulds-P-Ltd.png"
+  },
+  {
+    "name": "Imperial Pharmachines Pvt Ltd",
+    "industry": "Tools for tablets and Pharma Industry",
+    "location": "Navi Mumbai, MH",
+    "logo": "/Imperial-Pharmachines-Pvt-Ltd.png"
+  },
+  {
+    "name": "Amphenol Interconnect India Pvt Ltd",
+    "industry": "Connector Components",
+    "location": "Pune, MH",
+    "logo": "/Amphenol-Interconnect-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "Central Manufacturing Technology Institute",
+    "industry": "Technology Developments",
+    "location": "Rajkot, GJ",
+    "logo": "/Central-Manufacturing-Technology-Institute.png"
+  },
+  {
+    "name": "Wonjin Autoparts India Pvt Ltd",
+    "industry": "Auto Components",
+    "location": "Chennai, TN",
+    "logo": "/Wonjin-Autoparts-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "Wintage Engineers & Consultants",
+    "industry": "Supplier and Mfg of aluminium sheet, brass, deep down, mild sheet, rings, sleeves & Components.",
+    "location": "Ghaziabad, UP",
+    "logo": "/Wintage-Engineers-&-Consultants.png"
+  },
+  {
+    "name": "Hilton Engine Valves",
+    "industry": "Engine valves",
+    "location": "Rajkot, GJ",
+    "logo": "/Hilton-Engine-Valves.png"
+  },
+  {
+    "name": "Anil Plastics & Enterprises",
+    "industry": "Plastic Components",
+    "location": "Pune, MH",
+    "logo": "/Anil-Plastics-&-Enterprises.png"
+  },
+  {
+    "name": "Jayem Automotives Limited",
+    "industry": " Auto components",
+    "location": "Coimbatore, TN",
+    "logo": "/Jayem-Automotives-Limited.png"
+  },
+  {
+    "name": "Sharma Industries",
+    "industry": "Aluminium Pressure Die-cast components",
+    "location": "Bangalore, KA",
+    "logo": "/Sharma-Industries.png"
+  },
+  {
+    "name": "AT India Auto Parts Pvt Ltd",
+    "industry": "Machined components",
+    "location": "Ramnagar, KA",
+    "logo": "/AT-India-Auto-Parts-Pvt-Ltd.png"
+  },
+  {
+    "name": "Novateur Electrical & Digital Systems Pvt. L",
+    "industry": "Plastic components",
+    "location": "Haridwar, UK",
+    "logo": "/Novateur-Electrical-&-Digital-Systems-Pvt.-L.png"
+  },
+  {
+    "name": "Filcomps",
+    "industry": "Rubber Components",
+    "location": "Tumkur, KA",
+    "logo": "/Filcomps.png"
+  },
+  {
+    "name": "Vaish Industries",
+    "industry": "Springs and sheet metal parts",
+    "location": "Delhi, DL",
+    "logo": "/Vaish-Industries.png"
+  },
+  {
+    "name": "Prismatic Engineering",
+    "industry": "Magnetics components Mfg",
+    "location": "Bangalore, KA",
+    "logo": "/Prismatic-Engineering.png"
+  },
+  {
+    "name": "Dagger Master Tools (P) Ltd.",
+    "industry": "Micro Cutting Tools",
+    "location": "Aurangabad, MH",
+    "logo": "/Dagger-Master-Tools-(P)-Ltd..png"
+  },
+  {
+    "name": "Mars Engineers & Services",
+    "industry": "Cutting Tools",
+    "location": "Chennai, TN",
+    "logo": "/Mars-Engineers-&-Services.png"
+  },
+  {
+    "name": "Optomech Engineers (P) Ltd",
+    "industry": "Optical projectors",
+    "location": "Hyderabad, AP",
+    "logo": "/Optomech-Engineers-(P)-Ltd.png"
+  },
+  {
+    "name": "Technicraft",
+    "industry": "Auto Components",
+    "location": "Bangalore, KA",
+    "logo": "/Technicraft.png"
+  },
+  {
+    "name": "Shree Athreya Industries",
+    "industry": "Auto components",
+    "location": "Bangalore, KA",
+    "logo": "/Shree-Athreya-Industries.png"
+  },
+  {
+    "name": "Microtech Engineers",
+    "industry": "Injection moulding ",
+    "location": "Chennai, TN",
+    "logo": "/Microtech-Engineers.png"
+  },
+  {
+    "name": "Universal Flexible Pvt Ltd",
+    "industry": "Auto Components",
+    "location": "Bangalore, KA",
+    "logo": "/Universal-Flexible-Pvt-Ltd.png"
+  },
+  {
+    "name": "L&P Somappa Comfort Systems I P Ltd",
+    "industry": "Spring Mfgs",
+    "location": "Tiruvallur, TN",
+    "logo": "/L&P-Somappa-Comfort-Systems-I-P-Ltd.png"
+  },
+  {
+    "name": "Supreme Automech I P Ltd",
+    "industry": "Auto Components",
+    "location": "Pondicherry, TN",
+    "logo": "/Supreme-Automech-I-P-Ltd.png"
+  },
+  {
+    "name": "CNC Engravers",
+    "industry": " Engrave, Wire Cut, Lables",
+    "location": "Pune, MH",
+    "logo": "/CNC-Engravers.png"
+  },
+  {
+    "name": "Anand Testing Machine Services",
+    "industry": "Hardness Testing Diamond Indents",
+    "location": "Kolhapur, MH",
+    "logo": "/Anand-Testing-Machine-Services.png"
+  },
+  {
+    "name": "Trucut Tool Inc.",
+    "industry": "Cutting tools",
+    "location": "Chennai, TN",
+    "logo": "/Trucut-Tool-Inc..png"
+  },
+  {
+    "name": "Piano Presitel",
+    "industry": "Auto Components",
+    "location": "Mumbai, MH",
+    "logo": "/Piano-Presitel.png"
+  },
+  {
+    "name": "Exa Thermometrics India P Ltd",
+    "industry": "Auto Components",
+    "location": "Bangalore, KA",
+    "logo": "/Exa-Thermometrics-India-P-Ltd.png"
+  },
+  {
+    "name": "Bhansali Precision Components",
+    "industry": "Auto Components",
+    "location": "Mumbai, MH",
+    "logo": "/Bhansali-Precision-Components.png"
+  },
+  {
+    "name": "Numann Industries",
+    "industry": "Auto components",
+    "location": "Hosur, TN",
+    "logo": "/Numann-Industries.png"
+  },
+  {
+    "name": "Ess Enn Auto CNC P Ltd",
+    "industry": "Auto Components",
+    "location": "Bangalore, KA",
+    "logo": "/Ess-Enn-Auto-CNC-P-Ltd.png"
+  },
+  {
+    "name": "Uni - Automation (I)P Ltd",
+    "industry": "CMS(Electronics)",
+    "location": "Pune, MH",
+    "logo": "/Uni---Automation-(I)P-Ltd.png"
+  },
+  {
+    "name": "Dalal Plastic Corporation",
+    "industry": "Plastic components",
+    "location": "Mumbai, MH",
+    "logo": "/Dalal-Plastic-Corporation.png"
+  },
+  {
+    "name": "Vedika Machinery P Ltd",
+    "industry": "Sheet metal components",
+    "location": "Kolkata, WB",
+    "logo": "/Vedika-Machinery-P-Ltd.png"
+  },
+  {
+    "name": "Easun Reyrolle Ltd",
+    "industry": " Switchgear Mfgs",
+    "location": "Bangalore, KA",
+    "logo": "/Easun-Reyrolle-Ltd.png"
+  },
+  {
+    "name": "Wahi Sons P Ltd",
+    "industry": "Auto Components",
+    "location": "Gurgaon, HR",
+    "logo": "/Wahi-Sons-P-Ltd.png"
+  },
+  {
+    "name": "Arun Plasto Moulders (I) (P) Ltd",
+    "industry": "Plastic components",
+    "location": "Chennai, TN",
+    "logo": "/Arun-Plasto-Moulders-(I)-(P)-Ltd.png"
+  },
+  {
+    "name": "Match Well Die-Casters",
+    "industry": "Aluminium Pressure Die-cast components",
+    "location": "Mumbai, MH",
+    "logo": "/Match-Well-Die-Casters.png"
+  },
+  {
+    "name": "Arun Plasto Moulders (I) (P) Ltd (Haridwar)",
+    "industry": "Plastic components",
+    "location": "Haridwar, UK",
+    "logo": "/Arun-Plasto-Moulders-(I)-(P)-Ltd-(Haridwar).png"
+  },
+  {
+    "name": "Shiv-Om Brass Industries",
+    "industry": "Brass components",
+    "location": "Jamnagar, GJ",
+    "logo": "/Shiv-Om-Brass-Industries.png"
+  },
+  {
+    "name": "NDT Consultants Ltd",
+    "industry": "none",
+    "location": "England, OVR",
+    "logo": "/NDT-Consultants-Ltd.png"
+  },
+  {
+    "name": "KSS - Abhishek Safety Systems P Ltd",
+    "industry": "Auto Components",
+    "location": "Gurgaon, HR",
+    "logo": "/KSS---Abhishek-Safety-Systems-P-Ltd.png"
+  },
+  {
+    "name": "Speciality Sintered Products P Ltd",
+    "industry": "Auto Components",
+    "location": "Pune, MH",
+    "logo": "/Speciality-Sintered-Products-P-Ltd.png"
+  },
+  {
+    "name": "Kuhu Industries P Ltd",
+    "industry": "Machined components",
+    "location": "Jaipur, MH",
+    "logo": "/Kuhu-Industries-P-Ltd.png"
+  },
+  {
+    "name": "Chamundi Diecast",
+    "industry": "Aluminium Pressure Die-cast components",
+    "location": "Tumkur, KA",
+    "logo": "/Chamundi-Diecast.png"
+  },
+  {
+    "name": "Poly Fluoro Ltd",
+    "industry": "Plastic Components",
+    "location": "Bangalore, KA",
+    "logo": "/Poly-Fluoro-Ltd.png"
+  },
+  {
+    "name": "Sundaram Industries Ltd",
+    "industry": "Rubber Components",
+    "location": "Madurai, TN",
+    "logo": "/Sundaram-Industries-Ltd.png"
+  },
+  {
+    "name": "Rotary Connectors P Ltd",
+    "industry": "Connector Components",
+    "location": "Bangalore, KA",
+    "logo": "/Rotary-Connectors-P-Ltd.png"
+  },
+  {
+    "name": "Kishore Industries",
+    "industry": "Mould components",
+    "location": "Aurangabad, MH",
+    "logo": "/Kishore-Industries.png"
+  },
+  {
+    "name": "Geoff Poly Technologies",
+    "industry": "Auto Components",
+    "location": "Chennai, TN",
+    "logo": "/Geoff-Poly-Technologies.png"
+  },
+  {
+    "name": "Nashik Engineering Cluster",
+    "industry": "Metrology Services",
+    "location": "Nashik, MH",
+    "logo": "/Nashik-Engineering-Cluster.png"
+  },
+  {
+    "name": "KSH International P Ltd",
+    "industry": "Auto Components",
+    "location": "Pune, MH",
+    "logo": "/KSH-International-P-Ltd.png"
+  },
+  {
+    "name": "S.N Metallurgical Services",
+    "industry": "Metrology Services",
+    "location": "Aurangabad, MH",
+    "logo": "/S.N-Metallurgical-Services.png"
+  },
+  {
+    "name": "SMP Autotech P Ltd",
+    "industry": "Auto Components",
+    "location": "Nashik, MH",
+    "logo": "/SMP-Autotech-P-Ltd.png"
+  },
+  {
+    "name": "Ashvini Magnets P Ltd",
+    "industry": "Magnet Components.",
+    "location": "Pune, MH",
+    "logo": "/Ashvini-Magnets-P-Ltd.png"
+  },
+  {
+    "name": "Saturn Industries",
+    "industry": "Auto Components",
+    "location": "Bangalore, KA",
+    "logo": "/Saturn-Industries.png"
+  },
+  {
+    "name": "Unique Instruments & Mfrs P Ltd",
+    "industry": "Auto Components",
+    "location": "Bangalore, KA",
+    "logo": "/Unique-Instruments-&-Mfrs-P-Ltd.png"
+  },
+  {
+    "name": "Maruthi Suzuki India Ltd",
+    "industry": "Auto components",
+    "location": "Gurgaon, HR",
+    "logo": "/Maruthi-Suzuki-India-Ltd.png"
+  },
+  {
+    "name": "Napino Auto & Electronics Ltd",
+    "industry": "Plastic Components",
+    "location": "Gurgaon, HR",
+    "logo": "/Napino-Auto-&-Electronics-Ltd.png"
+  },
+  {
+    "name": "MSS India Private Limited",
+    "industry": "Plastic Components",
+    "location": "Nashik, MH",
+    "logo": "/MSS-India-Private-Limited.png"
+  },
+  {
+    "name": "DS Techno Rubber",
+    "industry": "Rubber Components",
+    "location": "Chennai, TN",
+    "logo": "/DS-Techno-Rubber.png"
+  },
+  {
+    "name": "Sealtite Dichtungs Pvt Ltd",
+    "industry": "Pressed Components",
+    "location": "Bangalore, KA",
+    "logo": "/Sealtite-Dichtungs-Pvt-Ltd.png"
+  },
+  {
+    "name": "Accusharp",
+    "industry": "Cutting Tools",
+    "location": "Pune, MH",
+    "logo": "/Accusharp.png"
+  },
+  {
+    "name": "Rane Engine Valves Ltd",
+    "industry": "Auto components",
+    "location": "Bangalore, KA",
+    "logo": "/Rane-Engine-Valves-Ltd.png"
+  },
+  {
+    "name": "Classic Stripes Pvt Ltd",
+    "industry": "Auto Stickers",
+    "location": "Thane, MH",
+    "logo": "/Classic-Stripes-Pvt-Ltd.png"
+  },
+  {
+    "name": "Stumpp Schuele & Somappa Springs Pvt Ltd",
+    "industry": "Spring Mfgs",
+    "location": "Bangalore, KA",
+    "logo": "/Stumpp-Schuele-&-Somappa-Springs-Pvt-Ltd.png"
+  },
+  {
+    "name": "Esbee Industrial Combines",
+    "industry": "CMS(Electronics)",
+    "location": "Pune, MH",
+    "logo": "/Esbee-Industrial-Combines.png"
+  },
+  {
+    "name": "Pappu Engineering Works,",
+    "industry": "Mfgs, suppliers and exporters of an extensive range of Chain Making Machines",
+    "location": "Mumbai, MH",
+    "logo": "/Pappu-Engineering-Works,.png"
+  },
+  {
+    "name": "Paloma Turning Co. Pvt. Ltd",
+    "industry": "Auto Components",
+    "location": "Bangalore, KA",
+    "logo": "/Paloma-Turning-Co.-Pvt.-Ltd.png"
+  },
+  {
+    "name": "Magna Closurres Automotive P Ltd",
+    "industry": "Auto Components",
+    "location": "Chennai, TN",
+    "logo": "/Magna-Closurres-Automotive-P-Ltd.png"
+  },
+  {
+    "name": "Navkar Technologies",
+    "industry": "Metrology Services",
+    "location": "Nashik, MH",
+    "logo": "/Navkar-Technologies.png"
+  },
+  {
+    "name": "Shine Industries",
+    "industry": "none",
+    "location": "Rajkot, GJ",
+    "logo": "/Shine-Industries.png"
+  },
+  {
+    "name": "Sanjith Moulds Pvt. Ltd.,",
+    "industry": "Plastic Components",
+    "location": "Nashik, MH",
+    "logo": "/Sanjith-Moulds-Pvt.-Ltd.,.png"
+  },
+  {
+    "name": "AG Industries",
+    "industry": "Injection Moulding",
+    "location": "Rewari, HR",
+    "logo": "/AG-Industries.png"
+  },
+  {
+    "name": "Allison Transmission India Pvt Ltd",
+    "industry": "Transmissions.",
+    "location": "Chennai, TN",
+    "logo": "/Allison-Transmission-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "Bill Forge Private Limited",
+    "industry": "Auto Components",
+    "location": "Bangalore, KA",
+    "logo": "/Bill-Forge-Private-Limited.png"
+  },
+  {
+    "name": "Fine Care Biosystems",
+    "industry": "Metrology Services",
+    "location": "Gandhinagar, GJ",
+    "logo": "/Fine-Care-Biosystems.png"
+  },
+  {
+    "name": "Sathvik Engineers",
+    "industry": "Auto Components",
+    "location": "Bangalore, KA",
+    "logo": "/Sathvik-Engineers.png"
+  },
+  {
+    "name": "Precision Sintered Products",
+    "industry": "Sintered components",
+    "location": "Rajkot, GJ",
+    "logo": "/Precision-Sintered-Products.png"
+  },
+  {
+    "name": "Lakshmi Technology & Engg. I Ltd.",
+    "industry": "Aerospace components",
+    "location": "Coimbatore, TN",
+    "logo": "/Lakshmi-Technology-&-Engg.-I-Ltd..png"
+  },
+  {
+    "name": "Mindarika Pvt Ltd",
+    "industry": "CMS(Electronics)",
+    "location": "Chennai, TN",
+    "logo": "/Mindarika-Pvt-Ltd.png"
+  },
+  {
+    "name": "Fine Tools (India) Pvt Ltd",
+    "industry": "Plastic components",
+    "location": "Bangalore, KA",
+    "logo": "/Fine-Tools-(India)-Pvt-Ltd.png"
+  },
+  {
+    "name": "Vhignesh Engg. Works",
+    "industry": "Auto components",
+    "location": "Hosur, TN",
+    "logo": "/Vhignesh-Engg.-Works.png"
+  },
+  {
+    "name": "Parshwa International",
+    "industry": "Plastic Components",
+    "location": "Haridwar, UK",
+    "logo": "/Parshwa-International.png"
+  },
+  {
+    "name": "JK Files (India) Ltd",
+    "industry": "Cutting tools",
+    "location": "Thane, MH",
+    "logo": "/JK-Files-(India)-Ltd.png"
+  },
+  {
+    "name": "Lakshmi Designers",
+    "industry": "Plastic components",
+    "location": "Bangalore, KA",
+    "logo": "/Lakshmi-Designers.png"
+  },
+  {
+    "name": "Silcotech Bonny Products India Pvt. Ltd",
+    "industry": "Plastic  Components",
+    "location": "Noida, UP",
+    "logo": "/Silcotech-Bonny-Products-India-Pvt.-Ltd.png"
+  },
+  {
+    "name": "Zaharonsky Moulds & Machines (P) Ltd",
+    "industry": "Plastics components",
+    "location": "Coimbatore, TN",
+    "logo": "/Zaharonsky-Moulds-&-Machines-(P)-Ltd.png"
+  },
+  {
+    "name": "Visteon Automotive Systems India Pvt Ltd",
+    "industry": "Auto components",
+    "location": "Chennai, TN",
+    "logo": "/Visteon-Automotive-Systems-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "Bhogale Automotive Private Ltd",
+    "industry": "Auto Components",
+    "location": "Aurangabad, MH",
+    "logo": "/Bhogale-Automotive-Private-Ltd.png"
+  },
+  {
+    "name": "Sri Balaji Assemblies & Plastics Pvt Ltd",
+    "industry": "Plastic components",
+    "location": "Chennai, TN",
+    "logo": "/Sri-Balaji-Assemblies-&-Plastics-Pvt-Ltd.png"
+  },
+  {
+    "name": "L G Balakrishnan & Bros Limited",
+    "industry": "Auto Components",
+    "location": "Coimbatore, TN",
+    "logo": "/L-G-Balakrishnan-&-Bros-Limited.png"
+  },
+  {
+    "name": "Supram Industries",
+    "industry": "Auto Components",
+    "location": "Bangalore, KA",
+    "logo": "/Supram-Industries.png"
+  },
+  {
+    "name": "CRD Endustriyel Kontrol Sistemleri San Tic L",
+    "industry": "none",
+    "location": "Bursa",
+    "logo": "/CRD-Endustriyel-Kontrol-Sistemleri-San-Tic-L.png"
+  },
+  {
+    "name": "Minda Vietnam Automotive Company Limit",
+    "industry": "Auto Components",
+    "location": "Vietnam",
+    "logo": "/Minda-Vietnam-Automotive-Company-Limit.png"
+  },
+  {
+    "name": "Protekz Tool & Die Makers",
+    "industry": " Tools & Dies",
+    "location": "Bangalore, KA",
+    "logo": "/Protekz-Tool-&-Die-Makers.png"
+  },
+  {
+    "name": "Synergy Global Sourcing",
+    "industry": "CMS(Electronics)",
+    "location": "Hosur, TN",
+    "logo": "/Synergy-Global-Sourcing.png"
+  },
+  {
+    "name": "Aisin Automotives Haryana Pvt Ltd",
+    "industry": "Auto Components",
+    "location": "Gurgaon, HR",
+    "logo": "/Aisin-Automotives-Haryana-Pvt-Ltd.png"
+  },
+  {
+    "name": "Srinisons Wiring Systems Private Limited",
+    "industry": "Auto Components",
+    "location": "Gurgaon, HR",
+    "logo": "/Srinisons-Wiring-Systems-Private-Limited.png"
+  },
+  {
+    "name": "Viney Corporation Pvt Ltd",
+    "industry": "Auto Components",
+    "location": "Gurgaon, HR",
+    "logo": "/Viney-Corporation-Pvt-Ltd.png"
+  },
+  {
+    "name": "Bilva Technologies Pvt Ltd",
+    "industry": "Auto Components",
+    "location": "Bangalore, KA",
+    "logo": "/Bilva-Technologies-Pvt-Ltd.png"
+  },
+  {
+    "name": "SAS Precision Engg P Ltd",
+    "industry": "Machined components",
+    "location": "Bangalore, KA",
+    "logo": "/SAS-Precision-Engg-P-Ltd.png"
+  },
+  {
+    "name": "Jayam Engineering And Tools",
+    "industry": "Auto Components",
+    "location": "Coimbatore, TN",
+    "logo": "/Jayam-Engineering-And-Tools.png"
+  },
+  {
+    "name": "Accuplast (Aureate India)",
+    "industry": "Injection Moulding",
+    "location": "Bangalore, KA",
+    "logo": "/Accuplast-(Aureate-India).png"
+  },
+  {
+    "name": "RR Engineering & Export",
+    "industry": "Auto Components",
+    "location": "Kolar, KA",
+    "logo": "/RR-Engineering-&-Export.png"
+  },
+  {
+    "name": "Shanmugha Precision Forging",
+    "industry": "Auto Components",
+    "location": "Thanjavur, TN",
+    "logo": "/Shanmugha-Precision-Forging.png"
+  },
+  {
+    "name": "Bit-Tul Pvt Ltd",
+    "industry": "Aerospace components",
+    "location": "Bangalore, KA",
+    "logo": "/Bit-Tul-Pvt-Ltd.png"
+  },
+  {
+    "name": "Techno Springs India Pvt Ltd",
+    "industry": "Springs Mfgs",
+    "location": "Faridabad, HR",
+    "logo": "/Techno-Springs-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "Saxon Fluid Sealing Devices",
+    "industry": "Sealing Devices",
+    "location": "Alwar, RJ",
+    "logo": "/Saxon-Fluid-Sealing-Devices.png"
+  },
+  {
+    "name": "Kumar Industries",
+    "industry": "Sheetmetal Components",
+    "location": "Chennai, TN",
+    "logo": "/Kumar-Industries.png"
+  },
+  {
+    "name": "Industrial Enginnering Syndicate",
+    "industry": "CMS(Electronics)",
+    "location": "Vasai, MH",
+    "logo": "/Industrial-Enginnering-Syndicate.png"
+  },
+  {
+    "name": "Gera Auto Industries Pvt Ltd",
+    "industry": "Auto Components",
+    "location": "Bangalore, KA",
+    "logo": "/Gera-Auto-Industries-Pvt-Ltd.png"
+  },
+  {
+    "name": "Colgate Palmolive India Ltd",
+    "industry": "none",
+    "location": "Mumbai, MH",
+    "logo": "/Colgate-Palmolive-India-Ltd.png"
+  },
+  {
+    "name": "Lakshmi Ring Travellers (Coimbatore) Ltd",
+    "industry": "Ring Mfgs",
+    "location": "Coimbatore, TN",
+    "logo": "/Lakshmi-Ring-Travellers-(Coimbatore)-Ltd.png"
+  },
+  {
+    "name": "Stumpp Schuele & Somappa Springs Pvt Ltd",
+    "industry": "Springs Mfgs",
+    "location": "Mewat, HR",
+    "logo": "/Stumpp-Schuele-&-Somappa-Springs-Pvt-Ltd.png"
+  },
+  {
+    "name": "Accurate Springs Pvt Ltd",
+    "industry": "Springs Mfgs",
+    "location": "Chennai, TN",
+    "logo": "/Accurate-Springs-Pvt-Ltd.png"
+  },
+  {
+    "name": "Spectrum Polytech India Pvt Ltd",
+    "industry": "Injection Moulding",
+    "location": "Jalgaon, MH",
+    "logo": "/Spectrum-Polytech-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "Care Group India",
+    "industry": "Optical Projects",
+    "location": "Vadodara, GJ",
+    "logo": "/Care-Group-India.png"
+  },
+  {
+    "name": "Leo Precision Products",
+    "industry": "none",
+    "location": "Silvassa, DHN",
+    "logo": "/Leo-Precision-Products.png"
+  },
+  {
+    "name": "Cuse Metrology & Quality Management Se",
+    "industry": "Metrology Services",
+    "location": "Coimbatore, TN",
+    "logo": "/Cuse-Metrology-&-Quality-Management-Se.png"
+  },
+  {
+    "name": "Indira Gandhi Centre For Atomic Research (IGCAR)",
+    "industry": "Research Cetre",
+    "location": "Chennai, TN",
+    "logo": "/Indira-Gandhi-Centre-For-Atomic-Research-(IGCAR).png"
+  },
+  {
+    "name": "College of Engineering",
+    "industry": "Educational Institution",
+    "location": "Pune, MH",
+    "logo": "/College-of-Engineering.png"
+  },
+  {
+    "name": "Suyash Impex Pvt Ltd",
+    "industry": "Auto Components",
+    "location": "Navi Mumbai, MH",
+    "logo": "/Suyash-Impex-Pvt-Ltd.png"
+  },
+  {
+    "name": "G-Plast Pvt Ltd",
+    "industry": "Injection Molding",
+    "location": "Coimbatore, TN",
+    "logo": "/G-Plast-Pvt-Ltd.png"
+  },
+  {
+    "name": "Abhi Metals",
+    "industry": "Fastners Components",
+    "location": "Jamnagar, GJ",
+    "logo": "/Abhi-Metals.png"
+  },
+  {
+    "name": "Mechvac Fabricators (I) Pvt Ltd",
+    "industry": "Auto Components",
+    "location": "Navi Mumbai, MH",
+    "logo": "/Mechvac-Fabricators-(I)-Pvt-Ltd.png"
+  },
+  {
+    "name": "Prabha Engineering Pvt Ltd",
+    "industry": "Auto Components",
+    "location": "Pune, MH",
+    "logo": "/Prabha-Engineering-Pvt-Ltd.png"
+  },
+  {
+    "name": "Teklight Components Pvt. Ltd",
+    "industry": "none",
+    "location": "Chennai, TN",
+    "logo": "/Teklight-Components-Pvt.-Ltd.png"
+  },
+  {
+    "name": "Siddhant Engineering Services",
+    "industry": "Machined Components",
+    "location": "Nashik, MH",
+    "logo": "/Siddhant-Engineering-Services.png"
+  },
+  {
+    "name": "Machroplast",
+    "industry": "Plastic Components",
+    "location": "Chennai, TN",
+    "logo": "/Machroplast.png"
+  },
+  {
+    "name": "R K Industries",
+    "industry": "Auto Components",
+    "location": "Chennai, TN",
+    "logo": "/R-K-Industries.png"
+  },
+  {
+    "name": "Pavna Zadi Security Systems Ltd",
+    "industry": "Auto Locks and Parts",
+    "location": "Aligarh, UP",
+    "logo": "/Pavna-Zadi-Security-Systems-Ltd.png"
+  },
+  {
+    "name": "Raviraj Hi-Tech Pvt. Ltd",
+    "industry": "Machined Components",
+    "location": "Pune, MH",
+    "logo": "/Raviraj-Hi-Tech-Pvt.-Ltd.png"
+  },
+  {
+    "name": "Hind High Vaccum Co. Pvt. Ltd.,",
+    "industry": "Vaccum Components",
+    "location": "Bangalore, KA",
+    "logo": "/Hind-High-Vaccum-Co.-Pvt.-Ltd.,.png"
+  },
+  {
+    "name": "Schott Kaisha Private Limited",
+    "industry": "Medical Devices and Automation",
+    "location": "Daman and Diu, DHN",
+    "logo": "/Schott-Kaisha-Private-Limited.png"
+  },
+  {
+    "name": "SML ISUZU Ltd",
+    "industry": "Machined Components",
+    "location": "Nawanshahar, PB",
+    "logo": "/SML-ISUZU-Ltd.png"
+  },
+  {
+    "name": "Orient Components Pvt. Ltd.,",
+    "industry": "Machined Components",
+    "location": "Chennai, TN",
+    "logo": "/Orient-Components-Pvt.-Ltd.,.png"
+  },
+  {
+    "name": "Dhruv Industries Limited",
+    "industry": "Auto Components",
+    "location": "Gurgaon, HR",
+    "logo": "/Dhruv-Industries-Limited.png"
+  },
+  {
+    "name": "V3 Mouldings Pvt Ltd",
+    "industry": "Injection Moulding",
+    "location": "Bangalore, KA",
+    "logo": "/V3-Mouldings-Pvt-Ltd.png"
+  },
+  {
+    "name": "Rishab Instruments Pvt. Ltd.,",
+    "industry": "CMS(Electronics)",
+    "location": "Nashik, MH",
+    "logo": "/Rishab-Instruments-Pvt.-Ltd.,.png"
+  },
+  {
+    "name": "Surelia Wire-Cut Pvt. Ltd.,",
+    "industry": "Switch Gears",
+    "location": "Rajkot, GJ",
+    "logo": "/Surelia-Wire-Cut-Pvt.-Ltd.,.png"
+  },
+  {
+    "name": "Federal Mogul Goetze (India) Ltd",
+    "industry": "Auto Components",
+    "location": "Bangalore, KA",
+    "logo": "/Federal-Mogul-Goetze-(India)-Ltd.png"
+  },
+  {
+    "name": "Multilink",
+    "industry": "Auto Components",
+    "location": "Mysore, KA",
+    "logo": "/Multilink.png"
+  },
+  {
+    "name": "Elite Technologies",
+    "industry": "Injection Moulding",
+    "location": "Hyderabad",
+    "logo": "/Elite-Technologies.png"
+  },
+  {
+    "name": "Impex Plastic Works",
+    "industry": "Plastic Components",
+    "location": "Faridabad ",
+    "logo": "/Impex-Plastic-Works.png"
+  },
+  {
+    "name": "Rohit Springforms Pvt. Ltd.,",
+    "industry": "Springs Mfgs",
+    "location": "Pune, MH",
+    "logo": "/Rohit-Springforms-Pvt.-Ltd.,.png"
+  },
+  {
+    "name": "Candid Micron Measurements P Ltd.",
+    "industry": "Metrology Services",
+    "location": "Coimbatore, TN",
+    "logo": "/Candid-Micron-Measurements-P-Ltd..png"
+  },
+  {
+    "name": "Prem Industries",
+    "industry": "Auto Components",
+    "location": "Mysore, KA",
+    "logo": "/Prem-Industries.png"
+  },
+  {
+    "name": "Tube Investments of India Ltd.,",
+    "industry": "Auto Components",
+    "location": "Chennai, TN",
+    "logo": "/Tube-Investments-of-India-Ltd.,.png"
+  },
+  {
+    "name": "Sunrays Engineers Pvt. Ltd.,",
+    "industry": "Auto Components",
+    "location": "Gurgaon, HR",
+    "logo": "/Sunrays-Engineers-Pvt.-Ltd.,.png"
+  },
+  {
+    "name": "Fine Blanking Pvt. Ltd.,",
+    "industry": "Textile Industries",
+    "location": "Hubli, KA",
+    "logo": "/Fine-Blanking-Pvt.-Ltd.,.png"
+  },
+  {
+    "name": "Roca Bathroom Products Pvt. Ltd.,",
+    "industry": "Bathroom Products",
+    "location": "Chennai, TN",
+    "logo": "/Roca-Bathroom-Products-Pvt.-Ltd.,.png"
+  },
+  {
+    "name": "Auto CNC Machining Ltd.,",
+    "industry": "Auto Comnponents",
+    "location": "Bangalore, KA",
+    "logo": "/Auto-CNC-Machining-Ltd.,.png"
+  },
+  {
+    "name": "Phoenix Engineering",
+    "industry": "Machined Components",
+    "location": "Aurangabad, MH",
+    "logo": "/Phoenix-Engineering.png"
+  },
+  {
+    "name": "LM Van Moppes Diamond Tools India Pvt. L",
+    "industry": "Diamond Cutting Tools",
+    "location": "Chennai, TN",
+    "logo": "/LM-Van-Moppes-Diamond-Tools-India-Pvt.-L.png"
+  },
+  {
+    "name": "Akshar Brass Industries",
+    "industry": "Brass Components",
+    "location": "Jamnagar, GJ",
+    "logo": "/Akshar-Brass-Industries.png"
+  },
+  {
+    "name": "Fortune Plastech",
+    "industry": "Injection Moulding",
+    "location": "Bangalore, KA",
+    "logo": "/Fortune-Plastech.png"
+  },
+  {
+    "name": "Epitome Components Ltd",
+    "industry": "CMS(Electronics)",
+    "location": "Ahmednagar, MH",
+    "logo": "/Epitome-Components-Ltd.png"
+  },
+  {
+    "name": "Derewala Industries Ltd.,",
+    "industry": "Jewellery Design",
+    "location": "Jaipur, RJ",
+    "logo": "/Derewala-Industries-Ltd.,.png"
+  },
+  {
+    "name": "Nextech Engineering",
+    "industry": "Auto Components",
+    "location": "Rajkot, GJ",
+    "logo": "/Nextech-Engineering.png"
+  },
+  {
+    "name": "Vikson Spring Pvt Ltd",
+    "industry": "Springs Mfgs",
+    "location": "Pune, MH",
+    "logo": "/Vikson-Spring-Pvt-Ltd.png"
+  },
+  {
+    "name": "K-Max Technologies Pvt. Ltd.,",
+    "industry": "CMS(Electronics)",
+    "location": "Chennai, TN",
+    "logo": "/K-Max-Technologies-Pvt.-Ltd.,.png"
+  },
+  {
+    "name": "BG LI-IN Electricals Ltd",
+    "industry": "CMS(Electronics)",
+    "location": "Aurangabad, MH",
+    "logo": "/BG-LI-IN-Electricals-Ltd.png"
+  },
+  {
+    "name": "Reammac Precision Tools",
+    "industry": "Cutting Tools",
+    "location": "Chennai, TN",
+    "logo": "/Reammac-Precision-Tools.png"
+  },
+  {
+    "name": "Balaji Aluminium Extrusions Pvt Ltd",
+    "industry": "Aluminium Pressure Die-Cast Components",
+    "location": "Haryana, HR",
+    "logo": "/Balaji-Aluminium-Extrusions-Pvt-Ltd.png"
+  },
+  {
+    "name": "Standard Spring & Metal Pressing Works",
+    "industry": "Springs Mfgs",
+    "location": " MH",
+    "logo": "/Standard-Spring-&-Metal-Pressing-Works.png"
+  },
+  {
+    "name": "Accurate Engineering Enterprises",
+    "industry": "Metrology Services",
+    "location": "Bangalore, KA",
+    "logo": "/Accurate-Engineering-Enterprises.png"
+  },
+  {
+    "name": "Kramski Stamping & Molding India Pvt Ltd",
+    "industry": "CMS(Electronics)",
+    "location": "Vellore, TN",
+    "logo": "/Kramski-Stamping-&-Molding-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "Ramesh Brass Products",
+    "industry": "Brass Components",
+    "location": "Jamnagar, GJ",
+    "logo": "/Ramesh-Brass-Products.png"
+  },
+  {
+    "name": "Auto Com Engineers",
+    "industry": "Sheetmetal Components",
+    "location": "Bangalore, KA",
+    "logo": "/Auto-Com-Engineers.png"
+  },
+  {
+    "name": "Automat Irrigation Pvt Ltd",
+    "industry": "Auto Components",
+    "location": "Haridwar, UK",
+    "logo": "/Automat-Irrigation-Pvt-Ltd.png"
+  },
+  {
+    "name": "R P Industries",
+    "industry": "Pharma Industries",
+    "location": "Bangalore, KA",
+    "logo": "/R-P-Industries.png"
+  },
+  {
+    "name": "Bhullar Industries",
+    "industry": "Injection Moulding",
+    "location": "Faridabad, HR",
+    "logo": "/Bhullar-Industries.png"
+  },
+  {
+    "name": "Recaero India Ltd",
+    "industry": "Aerospace components",
+    "location": "Bangalore, KA",
+    "logo": "/Recaero-India-Ltd.png"
+  },
+  {
+    "name": "Ajanta Ltd.",
+    "industry": "CMS(Electronics)",
+    "location": "Morbi, GJ",
+    "logo": "/Ajanta-Ltd..png"
+  },
+  {
+    "name": "Yoshama and Company Pvt Ltd.",
+    "industry": "Springs Mfgs",
+    "location": "Bangalore, KA",
+    "logo": "/Yoshama-and-Company-Pvt-Ltd..png"
+  },
+  {
+    "name": "Dayco Power Transmission Pvt Ltd",
+    "industry": "Transmission",
+    "location": "Gurgaon, HR",
+    "logo": "/Dayco-Power-Transmission-Pvt-Ltd.png"
+  },
+  {
+    "name": "Falcon Toolings",
+    "industry": "Injection Moulding",
+    "location": "Coimbatore, TN",
+    "logo": "/Falcon-Toolings.png"
+  },
+  {
+    "name": "Vasantha Tool Crafts Pvt Ltd",
+    "industry": "Injection Moulding",
+    "location": "Hyderabad,Telan, AP",
+    "logo": "/Vasantha-Tool-Crafts-Pvt-Ltd.png"
+  },
+  {
+    "name": "Star Fabricators",
+    "industry": "Auto Components",
+    "location": "Jalgaon, MH",
+    "logo": "/Star-Fabricators.png"
+  },
+  {
+    "name": "JSS Automotives",
+    "industry": "Auto Components",
+    "location": "Gurgaon, HR",
+    "logo": "/JSS-Automotives.png"
+  },
+  {
+    "name": "Haryana Plastics & Engineering Works",
+    "industry": "Plastic Components",
+    "location": "New Delhi, ND",
+    "logo": "/Haryana-Plastics-&-Engineering-Works.png"
+  },
+  {
+    "name": "Poineer Tooling Services",
+    "industry": "Auto Components",
+    "location": "Noida, UP",
+    "logo": "/Poineer-Tooling-Services.png"
+  },
+  {
+    "name": "Rams Engineering Industries",
+    "industry": "Auto Components",
+    "location": "Chennai, TN",
+    "logo": "/Rams-Engineering-Industries.png"
+  },
+  {
+    "name": "Laxmi Remote (India) Private Limited",
+    "industry": "Injection Moulding",
+    "location": "Noida, UP",
+    "logo": "/Laxmi-Remote-(India)-Private-Limited.png"
+  },
+  {
+    "name": "Texmo Precision Casting",
+    "industry": "Auto Components",
+    "location": "Coimbatore, TN",
+    "logo": "/Texmo-Precision-Casting.png"
+  },
+  {
+    "name": "Prettl Electronics India Pvt Ltd",
+    "industry": "CMS(Electronics)",
+    "location": "Pune, MH",
+    "logo": "/Prettl-Electronics-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "Mold-Masters Technologies Pvt Ltd",
+    "industry": "Injection Moulding",
+    "location": "Coimbatore, TN",
+    "logo": "/Mold-Masters-Technologies-Pvt-Ltd.png"
+  },
+  {
+    "name": "Mega Rubber Technologies Pvt Ltd",
+    "industry": "Rubber Components",
+    "location": "Thane, MH",
+    "logo": "/Mega-Rubber-Technologies-Pvt-Ltd.png"
+  },
+  {
+    "name": "Precision Electricals",
+    "industry": "CMS(Electronics)",
+    "location": "Thane, MH",
+    "logo": "/Precision-Electricals.png"
+  },
+  {
+    "name": "Elvee Springs Pvt Ltd",
+    "industry": "Springs Mfgs",
+    "location": "Bangalore, KA",
+    "logo": "/Elvee-Springs-Pvt-Ltd.png"
+  },
+  {
+    "name": "The Suncad Training & Designers",
+    "industry": "Auto Components",
+    "location": "Ahmedabad, GJ",
+    "logo": "/The-Suncad-Training-&-Designers.png"
+  },
+  {
+    "name": "Mudra Engineers",
+    "industry": "Injection Moulding",
+    "location": "Surendranagar, GJ",
+    "logo": "/Mudra-Engineers.png"
+  },
+  {
+    "name": "Precision Technoplast Pvt Ltd",
+    "industry": "Plastic Components",
+    "location": "Ahmedabad, GJ",
+    "logo": "/Precision-Technoplast-Pvt-Ltd.png"
+  },
+  {
+    "name": "Yeko Enterprises Pvt Ltd (Achutha Engineering Pvt Ltd)",
+    "industry": "Auto Components",
+    "location": "Hosur, TN",
+    "logo": "/Yeko-Enterprises-Pvt-Ltd-(Achutha-Engineering-Pvt-Ltd).png"
+  },
+  {
+    "name": "RR Enterprises ",
+    "industry": "Machined Components",
+    "location": "Thane, MH",
+    "logo": "/RR-Enterprises.png"
+  },
+  {
+    "name": "Accurate Manufacturing Company",
+    "industry": "Machined Components",
+    "location": "Bangalore, KA",
+    "logo": "/Accurate-Manufacturing-Company.png"
+  },
+  {
+    "name": "K K Precision Components",
+    "industry": "Auto Components",
+    "location": "Chennai, TN",
+    "logo": "/K-K-Precision-Components.png"
+  },
+  {
+    "name": "Jay Jalaram Industries",
+    "industry": "Machined Components",
+    "location": "Rajkot, GJ",
+    "logo": "/Jay-Jalaram-Industries.png"
+  },
+  {
+    "name": "Racer Tooling Industries",
+    "industry": "Injection Moulding",
+    "location": "Coimbatore, TN",
+    "logo": "/Racer-Tooling-Industries.png"
+  },
+  {
+    "name": "Maxop Engineering Co. Pvt Ltd",
+    "industry": "Aluminium Pressure Die-Cast Components",
+    "location": "Gurgoan, HR",
+    "logo": "/Maxop-Engineering-Co.-Pvt-Ltd.png"
+  },
+  {
+    "name": "Konarak Industries Pvt Ltd",
+    "industry": "Injection Moulding",
+    "location": "Bangalore, KA",
+    "logo": "/Konarak-Industries-Pvt-Ltd.png"
+  },
+  {
+    "name": "Valli Industries",
+    "industry": "Auto Components",
+    "location": "Hosur, TN",
+    "logo": "/Valli-Industries.png"
+  },
+  {
+    "name": "Wioska Moldings Pvt Ltd",
+    "industry": "Injection Moulding",
+    "location": "Noida, UP",
+    "logo": "/Wioska-Moldings-Pvt-Ltd.png"
+  },
+  {
+    "name": "S. S. White Technologies India Pvt Ltd",
+    "industry": "Auto Components",
+    "location": "Surendranagar, GJ",
+    "logo": "/S.-S.-White-Technologies-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "Century Extrusions Limited",
+    "industry": "Aluminium Extrusions",
+    "location": "Kharagpur, WB",
+    "logo": "/Century-Extrusions-Limited.png"
+  },
+  {
+    "name": "Bharti Hydrofitments & Engineers Pvt Ltd",
+    "industry": "Auto Components",
+    "location": "Ludhiana, PJ",
+    "logo": "/Bharti-Hydrofitments-&-Engineers-Pvt-Ltd.png"
+  },
+  {
+    "name": "Surindera Cycles Pvt. Ltd",
+    "industry": "Auto Components",
+    "location": "Ludhiana, PJ",
+    "logo": "/Surindera-Cycles-Pvt.-Ltd.png"
+  },
+  {
+    "name": "Sapa Extrusion India Pvt Ltd",
+    "industry": "none",
+    "location": "Pune, MH",
+    "logo": "/Sapa-Extrusion-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "Keerthi Technocraft Pvt Ltd",
+    "industry": "none",
+    "location": "Bangalore, KA",
+    "logo": "/Keerthi-Technocraft-Pvt-Ltd.png"
+  },
+  {
+    "name": "Shivam Autotech Limited",
+    "industry": "one of the largest Mfgs of transmission gears and shafts in India. The company has been serving a large number of Auto Mfgs as their principal component partner for the past 16 years.",
+    "location": "Gurgaon, HR",
+    "logo": "/Shivam-Autotech-Limited.png"
+  },
+  {
+    "name": "Candid Micron Measurements Pvt Ltd (LGB-Coimbatore)",
+    "industry": "India's leading Roller chain Mfg",
+    "location": "Coimbatore, TN",
+    "logo": "/Candid-Micron-Measurements-Pvt-Ltd-(LGB-Coimbatore).png"
+  },
+  {
+    "name": "Mindarika Pvt Ltd",
+    "industry": "none",
+    "location": "Gurgaon, HR",
+    "logo": "/Mindarika-Pvt-Ltd.png"
+  },
+  {
+    "name": "Pooja Automations (Candid Micro Measurements Pvt Ltd)",
+    "industry": "none",
+    "location": "Coimbatore, TN",
+    "logo": "/Pooja-Automations-(Candid-Micro-Measurements-Pvt-Ltd).png"
+  },
+  {
+    "name": "Benaka Technologies",
+    "industry": "none",
+    "location": "Bangalore, KA",
+    "logo": "/Benaka-Technologies.png"
+  },
+  {
+    "name": "Mindarika Pvt Ltd",
+    "industry": "none",
+    "location": "Pune, MH",
+    "logo": "/Mindarika-Pvt-Ltd.png"
+  },
+  {
+    "name": "Dhoot Transmission Pvt Ltd.",
+    "industry": "none",
+    "location": "Aurangabad, MH",
+    "logo": "/Dhoot-Transmission-Pvt-Ltd..png"
+  },
+  {
+    "name": "AMB Services",
+    "industry": "none",
+    "location": "Kancheepuram, TN",
+    "logo": "/AMB-Services.png"
+  },
+  {
+    "name": "Kuduma Precisions",
+    "industry": "none",
+    "location": "Bangalore, KA",
+    "logo": "/Kuduma-Precisions.png"
+  },
+  {
+    "name": "Minda Onkyo India Private Limited",
+    "industry": "none",
+    "location": "Rewari, HR",
+    "logo": "/Minda-Onkyo-India-Private-Limited.png"
+  },
+  {
+    "name": "Mindarika Pvt Ltd",
+    "industry": "none",
+    "location": "Ahmedabad, GJ",
+    "logo": "/Mindarika-Pvt-Ltd.png"
+  },
+  {
+    "name": "GKM Metal Finishers",
+    "industry": "none",
+    "location": "Hosur, TN",
+    "logo": "/GKM-Metal-Finishers.png"
+  },
+  {
+    "name": "Tool Grinding Technologies Inc.",
+    "industry": "none",
+    "location": "Bangalore, KA",
+    "logo": "/Tool-Grinding-Technologies-Inc..png"
+  },
+  {
+    "name": "SJP Industry",
+    "industry": "none",
+    "location": "Chennai, TN",
+    "logo": "/SJP-Industry.png"
+  },
+  {
+    "name": "Mahantesh Industries Enterprises",
+    "industry": "none",
+    "location": "Bangalore, KA",
+    "logo": "/Mahantesh-Industries-Enterprises.png"
+  },
+  {
+    "name": "Flamagas India Pvt Ltd",
+    "industry": "none",
+    "location": "Chennai, TN",
+    "logo": "/Flamagas-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "Dilsen Autoplast",
+    "industry": "none",
+    "location": "Chennai, TN",
+    "logo": "/Dilsen-Autoplast.png"
+  },
+  {
+    "name": "Napino Continental Vehicle Electronics Pvt Ltd",
+    "industry": "none",
+    "location": "Gurugram, HR",
+    "logo": "/Napino-Continental-Vehicle-Electronics-Pvt-Ltd.png"
+  },
+  {
+    "name": "Empire Machine Tools Pvt Ltd",
+    "industry": "none",
+    "location": "Coimbatore, TN",
+    "logo": "/Empire-Machine-Tools-Pvt-Ltd.png"
+  },
+  {
+    "name": "AVM Engineering Service",
+    "industry": "none",
+    "location": "Chennai, TN",
+    "logo": "/AVM-Engineering-Service.png"
+  },
+  {
+    "name": "Kcaltech System India LLP   (Candid)",
+    "industry": "none",
+    "location": "Kanchipuram, TN",
+    "logo": "/Kcaltech-System-India-LLP---(Candid).png"
+  },
+  {
+    "name": "Vikas Industries",
+    "industry": "Auto Components",
+    "location": "New Delhi, DL",
+    "logo": "/Vikas-Industries.png"
+  },
+  {
+    "name": "Sujay Industries",
+    "industry": "Auto Components",
+    "location": "Bangalore, KA",
+    "logo": "/Sujay-Industries.png"
+  },
+  {
+    "name": "Bhavani Industries",
+    "industry": "Auto Components",
+    "location": "Ramanagara, KA",
+    "logo": "/Bhavani-Industries.png"
+  },
+  {
+    "name": "Vulcan Cold Forge Pvt Ltd",
+    "industry": "none",
+    "location": "Gurgaon, HR",
+    "logo": "/Vulcan-Cold-Forge-Pvt-Ltd.png"
+  },
+  {
+    "name": "Edge Gro Industries",
+    "industry": "none",
+    "location": "Loni Ghaziabad, UP",
+    "logo": "/Edge-Gro-Industries.png"
+  },
+  {
+    "name": "Rajshree Engineers",
+    "industry": "none",
+    "location": "Faridabad, HR",
+    "logo": "/Rajshree-Engineers.png"
+  },
+  {
+    "name": "Tool Grinding Technologies Inc.",
+    "industry": "none",
+    "location": "Bangalore, KA",
+    "logo": "/Tool-Grinding-Technologies-Inc..png"
+  },
+  {
+    "name": "Wirecom (India) Pvt Ltd",
+    "industry": "none",
+    "location": "Pune, MH",
+    "logo": "/Wirecom-(India)-Pvt-Ltd.png"
+  },
+  {
+    "name": "Aditek",
+    "industry": "none",
+    "location": "Kolhapur, MH",
+    "logo": "/Aditek.png"
+  },
+  {
+    "name": "Dhawan Engineers Pvt Ltd",
+    "industry": "none",
+    "location": "Gurgaon, HR",
+    "logo": "/Dhawan-Engineers-Pvt-Ltd.png"
+  },
+  {
+    "name": "Vishwakarma Institute of Technology",
+    "industry": "none",
+    "location": "Pune, MH",
+    "logo": "/Vishwakarma-Institute-of-Technology.png"
+  },
+  {
+    "name": "Vijaya Auto Products",
+    "industry": "none",
+    "location": "Bangalore, KA",
+    "logo": "/Vijaya-Auto-Products.png"
+  },
+  {
+    "name": "Intessence Solutions Pvt Ltd",
+    "industry": "Medical Components",
+    "location": "Bangalore, KA",
+    "logo": "/Intessence-Solutions-Pvt-Ltd.png"
+  },
+  {
+    "name": "Rialto Enterprises Pvt Ltd",
+    "industry": "none",
+    "location": "Chennai, TN",
+    "logo": "/Rialto-Enterprises-Pvt-Ltd.png"
+  },
+  {
+    "name": "Aisin Automotives Haryana Pvt Ltd",
+    "industry": "none",
+    "location": "Ahmedabad, GJ",
+    "logo": "/Aisin-Automotives-Haryana-Pvt-Ltd.png"
+  },
+  {
+    "name": "Natesan Synchrocones Pvt Ltd",
+    "industry": "none",
+    "location": "Kancheepuram, TN",
+    "logo": "/Natesan-Synchrocones-Pvt-Ltd.png"
+  },
+  {
+    "name": "Pams Engineering",
+    "industry": "none",
+    "location": "Mysore, KA",
+    "logo": "/Pams-Engineering.png"
+  },
+  {
+    "name": "Saideep Moulding Industries",
+    "industry": "none",
+    "location": "Pune, MH",
+    "logo": "/Saideep-Moulding-Industries.png"
+  },
+  {
+    "name": "Magellan Aerospace India Pvt Ltd",
+    "industry": "Aerospace components",
+    "location": "Bangalore, KA",
+    "logo": "/Magellan-Aerospace-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "Schilthorn Precision Engineering Pvt Ltd",
+    "industry": "none",
+    "location": "Gandhinagar, GJ",
+    "logo": "/Schilthorn-Precision-Engineering-Pvt-Ltd.png"
+  },
+  {
+    "name": "FIEM Industries Limited",
+    "industry": "none",
+    "location": "Alwar, RJ",
+    "logo": "/FIEM-Industries-Limited.png"
+  },
+  {
+    "name": "Shigan Quantum Technologies Pvt Ltd",
+    "industry": "none",
+    "location": "Gurugram, HR",
+    "logo": "/Shigan-Quantum-Technologies-Pvt-Ltd.png"
+  },
+  {
+    "name": "Decon India Plastics Pvt Ltd",
+    "industry": "none",
+    "location": "Pune, MH",
+    "logo": "/Decon-India-Plastics-Pvt-Ltd.png"
+  },
+  {
+    "name": "Anchor Electricals Pvt Ltd",
+    "industry": "none",
+    "location": "Haridwar, UK",
+    "logo": "/Anchor-Electricals-Pvt-Ltd.png"
+  },
+  {
+    "name": "Magellan Aerospace India Pvt Ltd (Triveni Aeronautics Pvt Ltd)",
+    "industry": "none",
+    "location": "Tumkur, KA",
+    "logo": "/Magellan-Aerospace-India-Pvt-Ltd-(Triveni-Aeronautics-Pvt-Ltd).png"
+  },
+  {
+    "name": "Standex Electronics India Pvt Ltd",
+    "industry": "none",
+    "location": "Kanchipuram, TN",
+    "logo": "/Standex-Electronics-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "S and P Enterprises",
+    "industry": "none",
+    "location": "Kanchipuram, TN",
+    "logo": "/S-and-P-Enterprises.png"
+  },
+  {
+    "name": "A.G. Industries",
+    "industry": "none",
+    "location": "Bangalore, KA",
+    "logo": "/A.G.-Industries.png"
+  },
+  {
+    "name": "Varroc Engineering Limited",
+    "industry": "none",
+    "location": "Pune, MH",
+    "logo": "/Varroc-Engineering-Limited.png"
+  },
+  {
+    "name": "Mindarika Pvt Ltd",
+    "industry": "none",
+    "location": "Pune, MH",
+    "logo": "/Mindarika-Pvt-Ltd.png"
+  },
+  {
+    "name": "Byraveshwara Engineering Enterprises",
+    "industry": "none",
+    "location": "Bangalore, KA",
+    "logo": "/Byraveshwara-Engineering-Enterprises.png"
+  },
+  {
+    "name": "Naresh Rubber Udyog",
+    "industry": "none",
+    "location": "Faridabad, HR",
+    "logo": "/Naresh-Rubber-Udyog.png"
+  },
+  {
+    "name": "Microtech Polymers",
+    "industry": "none",
+    "location": "Coimbatore, TN",
+    "logo": "/Microtech-Polymers.png"
+  },
+  {
+    "name": "Yagachi Technologies Pvt Ltd",
+    "industry": "none",
+    "location": "Hassan, KA",
+    "logo": "/Yagachi-Technologies-Pvt-Ltd.png"
+  },
+  {
+    "name": "Micro Form Automation",
+    "industry": "none",
+    "location": "Coimbatore, TN",
+    "logo": "/Micro-Form-Automation.png"
+  },
+  {
+    "name": "Oleo Buffers India Pvt Ltd",
+    "industry": "none",
+    "location": "Bangalore, KA",
+    "logo": "/Oleo-Buffers-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "ABI Showatech (India) Limited",
+    "industry": "none",
+    "location": "Vellore, TN",
+    "logo": "/ABI-Showatech-(India)-Limited.png"
+  },
+  {
+    "name": "PLANSEE India High Performance Materials Pvt Ltd",
+    "industry": "none",
+    "location": "Mysore, KA",
+    "logo": "/PLANSEE-India-High-Performance-Materials-Pvt-Ltd.png"
+  },
+  {
+    "name": "Mando Automotive India Pvt Ltd",
+    "industry": "none",
+    "location": "Sriperumbudur, TN",
+    "logo": "/Mando-Automotive-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "Romsons Scientific & Surgical Industries Pvt ltd",
+    "industry": "none",
+    "location": "Agra, UP",
+    "logo": "/Romsons-Scientific-&-Surgical-Industries-Pvt-ltd.png"
+  },
+  {
+    "name": "DAN Plastics",
+    "industry": "none",
+    "location": "Mysore, KA",
+    "logo": "/DAN-Plastics.png"
+  },
+  {
+    "name": "Excel Plast",
+    "industry": "none",
+    "location": "Coimbatore, TN",
+    "logo": "/Excel-Plast.png"
+  },
+  {
+    "name": "J.L Engineering Industries",
+    "industry": "none",
+    "location": "Bangalore, KA",
+    "logo": "/J.L-Engineering-Industries.png"
+  },
+  {
+    "name": "SBCT Industries LLP",
+    "industry": "none",
+    "location": "Bangalore, KA",
+    "logo": "/SBCT-Industries-LLP.png"
+  },
+  {
+    "name": "Omni Matrix Pvt Ltd",
+    "industry": "none",
+    "location": "Bangalore, KA",
+    "logo": "/Omni-Matrix-Pvt-Ltd.png"
+  },
+  {
+    "name": "Java Auto Components",
+    "industry": "none",
+    "location": "Greter Noida, UP",
+    "logo": "/Java-Auto-Components.png"
+  },
+  {
+    "name": "Crest Metal Engineering LLP",
+    "industry": "none",
+    "location": "Jamnagar, GJ",
+    "logo": "/Crest-Metal-Engineering-LLP.png"
+  },
+  {
+    "name": "Aurolab",
+    "industry": "none",
+    "location": "Madurai, TN",
+    "logo": "/Aurolab.png"
+  },
+  {
+    "name": "Romson Scientific & Surgical Industries Pvt Ltd",
+    "industry": "none",
+    "location": "Agra, UP",
+    "logo": "/Romson-Scientific-&-Surgical-Industries-Pvt-Ltd.png"
+  },
+  {
+    "name": "VG Engineering",
+    "industry": "none",
+    "location": "Bangalore, KA",
+    "logo": "/VG-Engineering.png"
+  },
+  {
+    "name": "Romson Scientific & Surgical Industries Pvt Ltd",
+    "industry": "none",
+    "location": "Agra, UP",
+    "logo": "/Romson-Scientific-&-Surgical-Industries-Pvt-Ltd.png"
+  },
+  {
+    "name": "Max Tools Industries",
+    "industry": "none",
+    "location": "Rajkot, GJ",
+    "logo": "/Max-Tools-Industries.png"
+  },
+  {
+    "name": "Spectrum Electrical Component Pvt Ltd",
+    "industry": "none",
+    "location": "Jalgaon, MH",
+    "logo": "/Spectrum-Electrical-Component-Pvt-Ltd.png"
+  },
+  {
+    "name": "Amphenol Interconnect India Pvt Ltd",
+    "industry": "none",
+    "location": "Pune, MH",
+    "logo": "/Amphenol-Interconnect-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "Ideal Sheet Metal Stampings & Pressings Pvt Ltd",
+    "industry": "none",
+    "location": "Ahmedabad, GJ",
+    "logo": "/Ideal-Sheet-Metal-Stampings-&-Pressings-Pvt-Ltd.png"
+  },
+  {
+    "name": "AceInotec Manufacturing Pvt Ltd",
+    "industry": "none",
+    "location": "Bangalore, KA",
+    "logo": "/AceInotec-Manufacturing-Pvt-Ltd.png"
+  },
+  {
+    "name": "Larsen & Toubro Limited (Electrical & Automation)",
+    "industry": "none",
+    "location": "Vadodara, GJ",
+    "logo": "/Larsen-&-Toubro-Limited-(Electrical-&-Automation).png"
+  },
+  {
+    "name": "JBJ Technologies Ltd",
+    "industry": "none",
+    "location": "Greter Noida, UP",
+    "logo": "/JBJ-Technologies-Ltd.png"
+  },
+  {
+    "name": "ABDOS Labtech Pvt Ltd",
+    "industry": "none",
+    "location": "Roorkee, UK",
+    "logo": "/ABDOS-Labtech-Pvt-Ltd.png"
+  },
+  {
+    "name": "Smith Industrial Corporation Pvt Ltd",
+    "industry": "none",
+    "location": "Ghaziabad, UP",
+    "logo": "/Smith-Industrial-Corporation-Pvt-Ltd.png"
+  },
+  {
+    "name": "Pasupaty Springs Pvt Ltd",
+    "industry": "none",
+    "location": "New Delhi, DL",
+    "logo": "/Pasupaty-Springs-Pvt-Ltd.png"
+  },
+  {
+    "name": "Om Sai Engineering",
+    "industry": "none",
+    "location": "Palghar, MH",
+    "logo": "/Om-Sai-Engineering.png"
+  },
+  {
+    "name": "Devi Turnomatics Pvt Ltd",
+    "industry": "none",
+    "location": "Jamnagar, GJ",
+    "logo": "/Devi-Turnomatics-Pvt-Ltd.png"
+  },
+  {
+    "name": "C & S Electric Ltd",
+    "industry": "none",
+    "location": "Noida, UP",
+    "logo": "/C-&-S-Electric-Ltd.png"
+  },
+  {
+    "name": "Hyo Seong Electric India Pvt Ltd",
+    "industry": "none",
+    "location": "Kancheepuram, TN",
+    "logo": "/Hyo-Seong-Electric-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "Star Engineers (I) Pvt Ltd",
+    "industry": "none",
+    "location": "Pune, MH",
+    "logo": "/Star-Engineers-(I)-Pvt-Ltd.png"
+  },
+  {
+    "name": "AceInotec Manufacturing Pvt Ltd",
+    "industry": "none",
+    "location": "Bangalore, KA",
+    "logo": "/AceInotec-Manufacturing-Pvt-Ltd.png"
+  },
+  {
+    "name": "Pilot Gasket & Engineers",
+    "industry": "none",
+    "location": "Thane, MH",
+    "logo": "/Pilot-Gasket-&-Engineers.png"
+  },
+  {
+    "name": "Leo Precision Products",
+    "industry": "none",
+    "location": "Silvassa, DNH",
+    "logo": "/Leo-Precision-Products.png"
+  },
+  {
+    "name": "Star Engineers (I) Pvt Ltd",
+    "industry": "none",
+    "location": "Pune, MH",
+    "logo": "/Star-Engineers-(I)-Pvt-Ltd.png"
+  },
+  {
+    "name": "BC Instruments India Pvt Ltd",
+    "industry": "none",
+    "location": "Ahmedabad, GJ",
+    "logo": "/BC-Instruments-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "Spectra Products Pvt Ltd",
+    "industry": "none",
+    "location": "Ghaziabad, UP",
+    "logo": "/Spectra-Products-Pvt-Ltd.png"
+  },
+  {
+    "name": "Gowel Rubber Industries",
+    "industry": "Rubber Components",
+    "location": "Faridabad, HR",
+    "logo": "/Gowel-Rubber-Industries.png"
+  },
+  {
+    "name": "Alpha Engineers",
+    "industry": "none",
+    "location": "Faridabad, HR",
+    "logo": "/Alpha-Engineers.png"
+  },
+  {
+    "name": "Kent Industries",
+    "industry": "none",
+    "location": "Valsad, GJ",
+    "logo": "/Kent-Industries.png"
+  },
+  {
+    "name": "KDDL Limited",
+    "industry": "none",
+    "location": "Mohali, PB",
+    "logo": "/KDDL-Limited.png"
+  },
+  {
+    "name": "Selec Controls Pvt Ltd",
+    "industry": "none",
+    "location": "Navi Mumbai, MH",
+    "logo": "/Selec-Controls-Pvt-Ltd.png"
+  },
+  {
+    "name": "Visat Tools Pvt Ltd",
+    "industry": "none",
+    "location": "Bnagalore, KA",
+    "logo": "/Visat-Tools-Pvt-Ltd.png"
+  },
+  {
+    "name": "Vasantha Tool Crafts Pvt Ltd",
+    "industry": "none",
+    "location": "Hyderabad, TS",
+    "logo": "/Vasantha-Tool-Crafts-Pvt-Ltd.png"
+  },
+  {
+    "name": "Chennai Autotech Engineering Pvt Ltd",
+    "industry": "none",
+    "location": "Chennai, TN",
+    "logo": "/Chennai-Autotech-Engineering-Pvt-Ltd.png"
+  },
+  {
+    "name": "Napino Control Systems Pvt Ltd",
+    "industry": "none",
+    "location": "Gurugram, HR",
+    "logo": "/Napino-Control-Systems-Pvt-Ltd.png"
+  },
+  {
+    "name": "Lakshmi Cutting Tools",
+    "industry": "none",
+    "location": "Coimbatore, TN",
+    "logo": "/Lakshmi-Cutting-Tools.png"
+  },
+  {
+    "name": "Radeo Engineered Components LLP",
+    "industry": "none",
+    "location": "Hosur, TN",
+    "logo": "/Radeo-Engineered-Components-LLP.png"
+  },
+  {
+    "name": "Mass Auto Components",
+    "industry": "leading manufactures of Auto wiring harness and lead wire unit for two wheelers and four Wheelers, battery cable",
+    "location": "Chennai, TN",
+    "logo": "/Mass-Auto-Components.png"
+  },
+  {
+    "name": "Electromech Industries",
+    "industry": "Mfg of Switchgear Products, MCB & Metal Clad Plugs & Sockets.",
+    "location": "Haridwar, UK",
+    "logo": "/Electromech-Industries.png"
+  },
+  {
+    "name": "Perfect Polymers",
+    "industry": "Auto parts Mfg",
+    "location": "Rajkot, GJ",
+    "logo": "/Perfect-Polymers.png"
+  },
+  {
+    "name": "Tejas Engineering",
+    "industry": "Cutting Tool Mfg and Regrinding",
+    "location": "Bangalore, KA",
+    "logo": "/Tejas-Engineering.png"
+  },
+  {
+    "name": "Instrument India",
+    "industry": "manufactures sheet metal products for the local as well as international market and creates high-performance, long lasting products with superior finishes",
+    "location": "Bangalore, KA",
+    "logo": "/Instrument-India.png"
+  },
+  {
+    "name": "TransCal",
+    "industry": " one of the leading businesses in the Calibration Services",
+    "location": "Bangalore, KA",
+    "logo": "/TransCal.png"
+  },
+  {
+    "name": "Rhenium Tech Rings",
+    "industry": "none",
+    "location": "Rajkot, GJ",
+    "logo": "/Rhenium-Tech-Rings.png"
+  },
+  {
+    "name": "Jayson Industries",
+    "industry": "Producing and supplying machined parts/assemblies to industrial corporations",
+    "location": "Bangalore, KA",
+    "logo": "/Jayson-Industries.png"
+  },
+  {
+    "name": "Mold-Tek Packaging Ltd",
+    "industry": "Mfg of injection molded containers for lubes, paints, food and other products.",
+    "location": "Sanga Reddy, TS",
+    "logo": "/Mold-Tek-Packaging-Ltd.png"
+  },
+  {
+    "name": "TopFlite Components Pvt Ltd",
+    "industry": "Mfg of aerospace components",
+    "location": "Mysore, KA",
+    "logo": "/TopFlite-Components-Pvt-Ltd.png"
+  },
+  {
+    "name": "Brakes India Pvt Ltd",
+    "industry": "Mfg of Auto parts ",
+    "location": "Chittor, AP",
+    "logo": "/Brakes-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "Pragathi Coatings Pvt Ltd",
+    "industry": "They are a reputed and well Known name in the field of electroplating for over 25 years now. On molded plastic parts, Specially the decorative parts, for the various Auto and Durable Consumables industries",
+    "location": "Gurugram, HR",
+    "logo": "/Pragathi-Coatings-Pvt-Ltd.png"
+  },
+  {
+    "name": "Alpla India Pvt Ltd",
+    "industry": "Medical Components",
+    "location": "Sanga Reddy, TS",
+    "logo": "/Alpla-India-Pvt-Ltd.png"
+  },
+  {
+    "name": "Microtek New Technologies Pvt Ltd",
+    "industry": "none",
+    "location": "Solan, HP",
+    "logo": "/Microtek-New-Technologies-Pvt-Ltd.png"
+  },
+  {
+    "name": "Bagadia Chaitra Industries Pvt Ltd",
+    "industry": "Aerospace components",
+    "location": "Tumkur, KA",
+    "logo": "/Bagadia-Chaitra-Industries-Pvt-Ltd.png"
+  },
+  {
+    "name": "Stencil Engineering",
+    "industry": "none",
+    "location": "Bangalore, KA",
+    "logo": "/Stencil-Engineering.png"
+  },
+  {
+    "name": "Minda Corporation Ltd",
+    "industry": "none",
+    "location": "Greater Noida, UP",
+    "logo": "/Minda-Corporation-Ltd.png"
+  },
+  {
+    "name": "Capital Tool Industries",
+    "industry": "none",
+    "location": "Patiala, PB",
+    "logo": "/Capital-Tool-Industries.png"
+  },
+  {
+    "name": "Karamsar Technology Pvt ltd",
+    "industry": "none",
+    "location": "Delhi, ND",
+    "logo": "/Karamsar-Technology-Pvt-ltd.png"
+  },
+  {
+    "name": "Spring Tech India",
+    "industry": "none",
+    "location": "Faridabad, HR",
+    "logo": "/Spring-Tech-India.png"
+  },
+  {
+    "name": "OM Engineering",
+    "industry": "none",
+    "location": "Noida, UP",
+    "logo": "/OM-Engineering.png"
+  },
+  {
+    "name": "Rashmi Metaliks Ltd",
+    "industry": "none",
+    "location": "Kharagpur, WB",
+    "logo": "/Rashmi-Metaliks-Ltd.png"
+  },
+  {
+    "name": "Chennai Pen Products Pvt Ltd ",
+    "industry": "none",
+    "location": "Kancheepuram, TN",
+    "logo": "/Chennai-Pen-Products-Pvt-Ltd.png"
+  },
+  {
+    "name": "Yugal Precision Pvt Ltd",
+    "industry": "none",
+    "location": "Agra, UP",
+    "logo": "/Yugal-Precision-Pvt-Ltd.png"
+  },
+  {
+    "name": "AH Mec",
+    "industry": "none",
+    "location": "Bangalore, KA",
+    "logo": "/AH-Mec.png"
+  }
+]

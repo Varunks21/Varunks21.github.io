@@ -1,0 +1,9 @@
+.text-accent{
+    color: #0A3668;
+    font-size: 56px;
+    font-weight: 800;
+    
+}
+.team-header .h1{
+    text-decoration: underline,#0A3668 !important;
+}

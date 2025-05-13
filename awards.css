@@ -1,0 +1,158 @@
+.meily-section {
+    background: linear-gradient(to right, #a6cdda, #349ade); /* Light blue to dark blue */
+    color: rgb(15, 14, 14);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 80px 20px;
+  }
+
+  .meily-container {
+    display: flex;
+    max-width: 1200px;
+    width: 100%;
+    gap: 50px;
+    flex-wrap: wrap;
+
+  }
+
+  .meily-left {
+    flex: 1;
+    min-width: 300px;
+    text-align: justify;
+  }
+
+  .meily-left h1 {
+    font-size: 52px;
+    margin: 0;
+    color: #26393d;
+    text-decoration:underline 3px;
+  }
+
+  .meily-left p {
+    font-size: 20px;
+    margin-top: 40px;
+    line-height: 1.6;
+    max-width: 500px;
+    color:#26393d;
+    
+  }
+
+  .meily-tags {
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .meily-tag {
+    background-color: rgba(0, 0, 0, 0.3);
+    padding: 8px 14px;
+    border-radius: 8px;
+    font-size: 14px;
+  }
+
+  .meily-experience {
+    margin-top: 40px;
+    font-size: 18px;
+  }
+
+  .meily-exp-row {
+    display: flex;
+    justify-content: space-between;
+    max-width: 420px;
+    margin-top: 18px;
+  }
+
+  .meily-right {
+    flex: 1;
+    min-width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .meily-right img {
+    width: 100%;
+    max-width: 600px;
+    border-radius: 15px;
+    object-fit: cover;
+  }
+
+  @media (max-width: 900px) {
+    .meily-container {
+      flex-direction: column;
+      text-align: center;
+    }
+
+    .meily-exp-row {
+      justify-content: center;
+      gap: 20px;
+    }
+    .meily-exp-row1 {
+        justify-content: center;
+        gap: 20px;
+      }
+  }
+
+  .meily-left1 {
+    flex:1;
+    min-width: 500px;
+    text-align:justify;
+  }
+
+  .meily-left1 h1 {
+    font-size: 52px;
+    color: #26393d;
+    margin: 0;
+    text-decoration:underline 3px;
+  }
+
+  .meily-left1 p {
+    font-size: 20px;
+    margin-top: 40px;
+    line-height: 1.6;
+    max-width: 500px;
+    color:#26393d;
+  }
+
+  .meily-experience1 {
+    margin-top: 40px;
+    font-size: 18px;
+  }
+
+  .meily-exp-row1 {
+    display: flex;
+    justify-content: space-between;
+    max-width: 480px;
+    margin-top: 18px;
+  }
+
+
+  .meily-right1 {
+    flex: 1;
+    min-width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .meily-right1 img {
+    width: 100%;
+    max-width: 450px;
+    border-radius: 15px;
+    object-fit: cover;
+  }
+  .awardsh1{
+    color: #26393d;
+    font-size: 42px;
+    text-decoration:underline 5px #2f495b ;
+    font-style: italic;
+    
+    text-align: center;
+    margin-top: -55px;
+    margin-bottom: 1cm;
+    
+  }
+  .awardsh1 h1{
+    font-weight: 400
+  }
