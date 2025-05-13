@@ -550,7 +550,7 @@ h2 {
     }
 }
 
-.cursor-dot {
+/* .cursor-dot {
     width: 12px;
     height: 12px;
     background-color: #f1f1f6;
@@ -564,7 +564,7 @@ h2 {
 
 .cursor-dot.active {
     transform: scale(2);
-}
+} */
 
 /* Clients Section */
 .clients {
