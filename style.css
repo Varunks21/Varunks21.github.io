@@ -222,12 +222,7 @@ body {
     width: fit-content;
 }
 
-.dot {
-    width: 8px;
-    height: 8px;
-    background-color: #228947;
-    border-radius: 50%;
-}
+
 
 h2 {
     margin-top: -15px;
